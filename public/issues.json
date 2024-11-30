@@ -1,0 +1,5928 @@
+[
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "Multimodal TinyML for Suicidal Sentiment Detection on Wea...",
+    "suggestions": [
+      "Tiny ML"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 11,
+    "length": 6,
+    "coordinates": [
+      204.35867309570312,
+      137.70211791992188,
+      252.26063537597656,
+      154.98928833007812
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...entiment Detection on Wearable Devices  Samyak Jain, Anubhav Yadav, Aaryan Yadav  Neta...",
+    "suggestions": [
+      "Sam yak"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 72,
+    "length": 6,
+    "coordinates": [
+      206.47000122070312,
+      189.57257080078125,
+      238.56948852539062,
+      201.57749938964844
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Wearable Devices  Samyak Jain, Anubhav Yadav, Aaryan Yadav  Netaji Subhas University...",
+    "suggestions": [
+      "ADAV"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 93,
+    "length": 5,
+    "coordinates": [
+      301.40362548828125,
+      189.57257080078125,
+      329.1993103027344,
+      201.57749938964844
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ces  Samyak Jain, Anubhav Yadav, Aaryan Yadav  Netaji Subhas University of Technology...",
+    "suggestions": [
+      "ADAV"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 107,
+    "length": 5,
+    "coordinates": [
+      363.50054931640625,
+      189.57257080078125,
+      388.30743408203125,
+      201.57749938964844
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...myak Jain, Anubhav Yadav, Aaryan Yadav  Netaji Subhas University of Technology, Dwarka...",
+    "suggestions": [
+      "Nepali",
+      "Ketanji"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 114,
+    "length": 6,
+    "coordinates": [
+      184.79299926757812,
+      206.85565185546875,
+      229.29800415039062,
+      216.37196350097656
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...in, Anubhav Yadav, Aaryan Yadav  Netaji Subhas University of Technology, Dwarka, Delhi...",
+    "suggestions": [
+      "Subhash"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 121,
+    "length": 6,
+    "coordinates": [
+      206.27239990234375,
+      206.85565185546875,
+      264.4142761230469,
+      216.37196350097656
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Netaji Subhas University of Technology, Dwarka, Delhi, 110078, India  Abstract  Suicid...",
+    "suggestions": [
+      "Dark",
+      "Dwarf",
+      "Dhaka"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 154,
+    "length": 6,
+    "coordinates": [
+      314.4027404785156,
+      206.85565185546875,
+      342.074951171875,
+      216.37196350097656
+    ],
+    "page": 1
+  },
+  {
+    "message": "Add a space between sentences.",
+    "context": "...uicide has a large public health impact.Suicidal sentiments are a serious mental health ...",
+    "suggestions": [
+      " Suicidal"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SENTENCE_WHITESPACE",
+    "offset": 235,
+    "length": 8,
+    "coordinates": [
+      243.65957641601562,
+      288.04559326171875,
+      351.99285888671875,
+      300.050537109375
+    ],
+    "page": 1
+  },
+  {
+    "message": "It seems that the correct verb form here is “allow”.",
+    "context": "...s timely intervention. Wearable devices allows for continuous monitoring of suicidal s...",
+    "suggestions": [
+      "allow"
+    ],
+    "category": "GRAMMAR",
+    "rule_id": "AGREEMENT_SENT_START_2",
+    "offset": 340,
+    "length": 6,
+    "coordinates": [
+      311.6044921875,
+      300.0006103515625,
+      351.5146179199219,
+      312.00555419921875
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...al sentiments. This research proposes a TinyML based solution that combines Physiologi...",
+    "suggestions": [
+      "Tiny ML"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 422,
+    "length": 6,
+    "coordinates": [
+      253.2137451171875,
+      311.95562744140625,
+      311.1761474609375,
+      323.9605712890625
+    ],
+    "page": 1
+  },
+  {
+    "message": "It appears that a white space is missing.",
+    "context": "...n that combines Physiological parameters(heart rate variability, blood glucose, b...",
+    "suggestions": [
+      " ("
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SPACE_BEFORE_PARENTHESIS",
+    "offset": 482,
+    "length": 1,
+    "coordinates": [
+      106.3550033569336,
+      323.9106140136719,
+      148.39718627929688,
+      335.9155578613281
+    ],
+    "page": 1
+  },
+  {
+    "message": "This expression is normally spelled as one or with a hyphen.",
+    "context": "...l sentiments in real time. We suggest a multi modal machine learning model for physiologica...",
+    "suggestions": [
+      "multi-modal",
+      "multimodal"
+    ],
+    "category": "MISC",
+    "rule_id": "EN_COMPOUNDS_MULTI_MODAL",
+    "offset": 657,
+    "length": 11,
+    "coordinates": [
+      439.524169921875,
+      335.8656005859375,
+      140.10829162597656,
+      359.8255310058594
+    ],
+    "page": 1
+  },
+  {
+    "message": "This expression is normally spelled as one or with a hyphen.",
+    "context": "...sing, text and speech tone analysis and multi modal fusion. This system also incorporates T...",
+    "suggestions": [
+      "multi-modal",
+      "multimodal"
+    ],
+    "category": "MISC",
+    "rule_id": "EN_COMPOUNDS_MULTI_MODAL",
+    "offset": 763,
+    "length": 11,
+    "coordinates": [
+      106.3550033569336,
+      359.7765808105469,
+      184.93997192382812,
+      371.7815246582031
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...l fusion. This system also incorporates TinyML models to preserve user privacy and run...",
+    "suggestions": [
+      "Tiny ML"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 813,
+    "length": 6,
+    "coordinates": [
+      309.5920104980469,
+      359.7765808105469,
+      374.2592468261719,
+      371.7815246582031
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...rce constrained environment.  Keywords: TinyML, Sentimental analysis of Text, Physiolo...",
+    "suggestions": [
+      "Tiny ML"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 910,
+    "length": 6,
+    "coordinates": [
+      154.08599853515625,
+      388.642578125,
+      239.93370056152344,
+      400.64752197265625
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...-10. For instance, dysregulation of the hypothalamicpituitary-adrenal (HPA) axis, which is involved in the st...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 1706,
+    "length": 29,
+    "coordinates": [
+      431.4146423339844,
+      562.2344970703125,
+      172.75575256347656,
+      586.1943969726562
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...addresses: samyak.jain.ug21@nsut.ac.in (Samyak Jain), anubhav.yadav.ug21@nsut.ac.in (A...",
+    "suggestions": [
+      "Sam yak"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 2504,
+    "length": 6,
+    "coordinates": [
+      177.9980010986328,
+      685.447021484375,
+      322.647705078125,
+      693.670654296875
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... anubhav.yadav.ug21@nsut.ac.in (Anubhav Yadav), aaryan.yadav.ug21@nsut.ac.in (Aaryan ...",
+    "suggestions": [
+      "ADAV"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 2557,
+    "length": 5,
+    "coordinates": [
+      106.35498046875,
+      693.5306396484375,
+      164.5526123046875,
+      703.1346435546875
+    ],
+    "page": 1
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...), aaryan.yadav.ug21@nsut.ac.in (Aaryan Yadav) Preprint submitted to Knowledge-Based ...",
+    "suggestions": [
+      "ADAV"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 2602,
+    "length": 5,
+    "coordinates": [
+      287.094970703125,
+      693.5306396484375,
+      337.69720458984375,
+      703.1346435546875
+    ],
+    "page": 1
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...Knowledge-Based Systems April 11, 2024  data with natural language processing techni...",
+    "suggestions": [
+      "Data"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 2671,
+    "length": 4,
+    "coordinates": [
+      472.9795227050781,
+      705.4856567382812,
+      122.95269012451172,
+      153.7574920654297
+    ],
+    "page": 1
+  },
+  {
+    "message": "It appears that a space is missing between the number and word (or unit).",
+    "context": "...d sleep quality metrics, collected over 7day and 14-day periods. By incorporating te...",
+    "suggestions": [
+      "7 day"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SPACE_BETWEEN_NUMBER_AND_WORD",
+    "offset": 3239,
+    "length": 4,
+    "coordinates": [
+      420.1170959472656,
+      213.483642578125,
+      477.0533142089844,
+      225.4885711669922
+    ],
+    "page": 2
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...ty across different populations. By  2  including a wide range of participants, we aim to...",
+    "suggestions": [
+      "Including"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 4048,
+    "length": 9,
+    "coordinates": [
+      424.5160217285156,
+      688.6695556640625,
+      143.99368286132812,
+      153.7574920654297
+    ],
+    "page": 2
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ource-constrained devices. By employing TinyML, we aim to develop a smartband capable ...",
+    "suggestions": [
+      "Tiny ML"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 4484,
+    "length": 6,
+    "coordinates": [
+      106.35499572753906,
+      201.52764892578125,
+      148.87535095214844,
+      213.53257751464844
+    ],
+    "page": 3
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...y employing TinyML, we aim to develop a smartband capable of detecting suicidal sentiment...",
+    "suggestions": [
+      "smart band"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 4512,
+    "length": 9,
+    "coordinates": [
+      234.39430236816406,
+      201.52764892578125,
+      273.0491943359375,
+      213.53257751464844
+    ],
+    "page": 3
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...secure and efficient manner. The use of TinyML also makes our solution more accessible...",
+    "suggestions": [
+      "Tiny ML"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 4756,
+    "length": 6,
+    "coordinates": [
+      446.7288513183594,
+      225.43865966796875,
+      478.0612487792969,
+      237.44358825683594
+    ],
+    "page": 3
+  },
+  {
+    "message": "Add a space between sentences.",
+    "context": "... including MDD and suicidal behavior[9].By integrating our predictive model into f...",
+    "suggestions": [
+      " By"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SENTENCE_WHITESPACE",
+    "offset": 5180,
+    "length": 2,
+    "coordinates": [
+      382.3787841796875,
+      285.2147216796875,
+      442.7720031738281,
+      297.21966552734375
+    ],
+    "page": 3
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...dia, to predict mental health outcomes. Choudhary et al. [11] proposed a machine learning...",
+    "suggestions": [
+      "Chaudhary",
+      "Choudhury"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 7100,
+    "length": 9,
+    "coordinates": [
+      250.81275939941406,
+      587.08251953125,
+      304.7701721191406,
+      599.0874633789062
+    ],
+    "page": 3
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...behavioral patterns of depression using nonintrusive smartphone data. They introduced a nove...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 7221,
+    "length": 12,
+    "coordinates": [
+      106.35504150390625,
+      610.9925537109375,
+      192.8403778076172,
+      622.9974975585938
+    ],
+    "page": 3
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...onstrating the feasibility of using  3  smartphone data for depression screening and monit...",
+    "suggestions": [
+      "Smartphone"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 7855,
+    "length": 10,
+    "coordinates": [
+      412.8643798828125,
+      682.7235107421875,
+      452.7147216796875,
+      694.7284545898438
+    ],
+    "page": 3
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...epression and accelerometer- and screen usebased biomarkers. This research provides evid...",
+    "suggestions": [
+      "use based"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 8185,
+    "length": 8,
+    "coordinates": [
+      167.87403869628906,
+      189.5726318359375,
+      226.86265563964844,
+      201.5775604248047
+    ],
+    "page": 4
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...s of an individual’s mental well-being. Saeb et al. [13] found significant correlati...",
+    "suggestions": [
+      "Saab",
+      "AEB",
+      "SAAB"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 8473,
+    "length": 4,
+    "coordinates": [
+      170.82298278808594,
+      225.43865966796875,
+      217.6272735595703,
+      237.44358825683594
+    ],
+    "page": 4
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...hone data for mental health monitoring. Asare et al. [14] found that age group and ge...",
+    "suggestions": [
+      "Aware",
+      "ASEAN",
+      "Agar"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 8865,
+    "length": 5,
+    "coordinates": [
+      461.8005065917969,
+      273.25970458984375,
+      488.918701171875,
+      285.2646484375
+    ],
+    "page": 4
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ptoms and found high compatibility with nonsmartphone-based assessments [16], thus proving such too...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 9975,
+    "length": 19,
+    "coordinates": [
+      474.53277587890625,
+      440.6316223144531,
+      206.61859130859375,
+      464.591552734375
+    ],
+    "page": 4
+  },
+  {
+    "message": "Add a space between sentences.",
+    "context": "...ntervals between consecutive heartbeats.In particular, HRV has been linked to suic...",
+    "suggestions": [
+      " In"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SENTENCE_WHITESPACE",
+    "offset": 10451,
+    "length": 2,
+    "coordinates": [
+      435.3200378417969,
+      554.20556640625,
+      468.5154113769531,
+      566.2105102539062
+    ],
+    "page": 4
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...uicidal individuals have lower HRV than nonsuicidal individuals, suggesting a reduced capac...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 10823,
+    "length": 11,
+    "coordinates": [
+      289.1090087890625,
+      613.9815673828125,
+      333.1436462402344,
+      625.9865112304688
+    ],
+    "page": 4
+  },
+  {
+    "message": "This word is normally spelled with a hyphen.",
+    "context": "...re studied. Both the resting HR and the root mean square of successive difference (RMSSD), a mea...",
+    "suggestions": [
+      "root-mean-square"
+    ],
+    "category": "MISC",
+    "rule_id": "EN_COMPOUNDS_ROOT_MEAN_SQUARE",
+    "offset": 11061,
+    "length": 16,
+    "coordinates": [
+      106.35499572753906,
+      649.8465576171875,
+      209.40811157226562,
+      661.8515014648438
+    ],
+    "page": 4
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...associated with a moderate effect size (Cohens ds = 0.560.58). Patients with melanchol...",
+    "suggestions": [
+      "Cohen's",
+      "Cohen",
+      "Covens"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 11842,
+    "length": 6,
+    "coordinates": [
+      380.0475158691406,
+      436.8895263671875,
+      441.6163635253906,
+      448.89447021484375
+    ],
+    "page": 5
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ted with a moderate effect size (Cohens ds = 0.560.58). Patients with melancholia ...",
+    "suggestions": [
+      "DS",
+      "is",
+      "as"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 11849,
+    "length": 2,
+    "coordinates": [
+      423.90289306640625,
+      436.8895263671875,
+      448.9388732910156,
+      448.89447021484375
+    ],
+    "page": 5
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...relative to those with non-melancholia (Cohens d = 0.20). [19] Now talking about the t...",
+    "suggestions": [
+      "Cohen's",
+      "Cohen",
+      "Covens"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 11970,
+    "length": 6,
+    "coordinates": [
+      123.77957153320312,
+      460.79949951171875,
+      187.02215576171875,
+      472.804443359375
+    ],
+    "page": 5
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...es. In recent years, the utilization of Photoplethysmography (PPG) has emerged as a cost-effective a...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 12117,
+    "length": 20,
+    "coordinates": [
+      117.56290435791016,
+      484.7104797363281,
+      226.82275390625,
+      496.7154235839844
+    ],
+    "page": 5
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...g Heart Rate Variability (HRV) indices. PPG-based devices are known for their simplicity ...",
+    "suggestions": [
+      "AI-based",
+      "PFAS-based",
+      "Bio-based"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 12250,
+    "length": 9,
+    "coordinates": [
+      255.30584716796875,
+      496.66546630859375,
+      343.7736511230469,
+      508.67041015625
+    ],
+    "page": 5
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ercise load. [20] During rest, the MAE (±standard deviation (SD)) of consumer wearables w...",
+    "suggestions": [
+      "± standard"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 12785,
+    "length": 9,
+    "coordinates": [
+      186.47422790527344,
+      568.3963623046875,
+      228.57615661621094,
+      580.4013061523438
+    ],
+    "page": 5
+  },
+  {
+    "message": "A verb may be missing between “we” and “a”, or a word may be misspelled.",
+    "context": "...8.1 bpm (p < 0.0125). [21] On searching we a found a Machine Learning-Empowered Syst...",
+    "suggestions": [],
+    "category": "GRAMMAR",
+    "rule_id": "PRP_THE",
+    "offset": 13109,
+    "length": 4,
+    "coordinates": [
+      413.48687744140625,
+      604.2614135742188,
+      442.786865234375,
+      616.266357421875
+    ],
+    "page": 5
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... to an acquired ear signal dataset, the MESTD, MAE and RMSE for HR estimation are 0.8...",
+    "suggestions": [
+      "ME STD",
+      "MES TD"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 13319,
+    "length": 5,
+    "coordinates": [
+      163.53036499023438,
+      640.1273803710938,
+      210.26492309570312,
+      652.13232421875
+    ],
+    "page": 5
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ercentage of incorrect classifications (missingress) in detecting activity and rest states ...",
+    "suggestions": [
+      "miss ingress"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 13891,
+    "length": 11,
+    "coordinates": [
+      362.2145080566406,
+      441.4925231933594,
+      455.1654968261719,
+      453.4974670410156
+    ],
+    "page": 6
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... that advances the state-of-the-art for HRV-based sleep stage classification.  6  Perform...",
+    "suggestions": [
+      "AI-based",
+      "Bio-based",
+      "Freebased"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 15385,
+    "length": 9,
+    "coordinates": [
+      316.4762268066406,
+      679.7344360351562,
+      394.36383056640625,
+      691.7393798828125
+    ],
+    "page": 6
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... measured (precision, recall, accuracy, Cohens k). For wake, precision was 0.73 ± 0.20...",
+    "suggestions": [
+      "Cohen's",
+      "Cohen",
+      "Covens"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 15516,
+    "length": 6,
+    "coordinates": [
+      334.18988037109375,
+      141.7525634765625,
+      372.3665771484375,
+      153.7574920654297
+    ],
+    "page": 7
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...71 ± 0.20, accuracy was 0.90 ± 0.07 and Cohens k was 0.63 ± 0.19. For REM, precision w...",
+    "suggestions": [
+      "Cohen's",
+      "Cohen",
+      "Covens"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 15617,
+    "length": 6,
+    "coordinates": [
+      352.4806823730469,
+      153.70758056640625,
+      402.2421875,
+      165.71250915527344
+    ],
+    "page": 7
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...76 ± 0.24, accuracy was 0.92 ± 0.04 and Cohens k was 0.68 ± 0.22. For combined N1/N2, ...",
+    "suggestions": [
+      "Cohen's",
+      "Cohen",
+      "Covens"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 15732,
+    "length": 6,
+    "coordinates": [
+      440.87255859375,
+      165.66259765625,
+      488.9201354980469,
+      177.6675262451172
+    ],
+    "page": 7
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...82 ± 0.08, accuracy was 0.79 ± 0.08 and Cohens k was 0.56 ± 0.15. Finally, for N3, pre...",
+    "suggestions": [
+      "Cohen's",
+      "Cohen",
+      "Covens"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 15858,
+    "length": 6,
+    "coordinates": [
+      202.7568359375,
+      189.5726318359375,
+      252.47206115722656,
+      201.5775604248047
+    ],
+    "page": 7
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...61 ± 0.30, accuracy was 0.92 ± 0.04 and Cohens k was 0.53 ± 0.27. [26]  Figure 4: A sc...",
+    "suggestions": [
+      "Cohen's",
+      "Cohen",
+      "Covens"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 15981,
+    "length": 6,
+    "coordinates": [
+      319.8351745605469,
+      201.52764892578125,
+      368.31207275390625,
+      213.53257751464844
+    ],
+    "page": 7
+  },
+  {
+    "message": "Add a space between sentences.",
+    "context": "...er values indicating better performance.Healthy controls serve as the baseline conditio...",
+    "suggestions": [
+      " Healthy"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SENTENCE_WHITESPACE",
+    "offset": 16274,
+    "length": 7,
+    "coordinates": [
+      241.4606475830078,
+      608.6015625,
+      295.68707275390625,
+      620.6065063476562
+    ],
+    "page": 7
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... a noteworthy study conducted by [A. H. Farabaugh et al., 2004], the impact of perceived ...",
+    "suggestions": [
+      "Karabakh",
+      "Kavanaugh"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 16550,
+    "length": 9,
+    "coordinates": [
+      139.58038330078125,
+      156.696533203125,
+      184.56149291992188,
+      168.7014617919922
+    ],
+    "page": 8
+  },
+  {
+    "message": "The pronoun ‘he’ is usually used with a third-person or a past tense verb.",
+    "context": "...]  3.4. Physical Activity  Figure 5: he image depicts a stacked bar chart showing the...",
+    "suggestions": [
+      "images",
+      "imaged"
+    ],
+    "category": "GRAMMAR",
+    "rule_id": "HE_VERB_AGR",
+    "offset": 17116,
+    "length": 5,
+    "coordinates": [
+      106.35498046875,
+      240.38262939453125,
+      160.5913848876953,
+      252.27796936035156
+    ],
+    "page": 8
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "... represents the frequency, ranging from ”Never” to ”Almost every day”. The y-axis...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 17378,
+    "length": 1,
+    "coordinates": [
+      301.80133056640625,
+      558.08251953125,
+      342.189697265625,
+      570.0874633789062
+    ],
+    "page": 8
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "...sents the frequency, ranging from ”Never” to ”Almost every day”. The y-axis on th...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 17384,
+    "length": 1,
+    "coordinates": [
+      301.80133056640625,
+      558.08251953125,
+      342.189697265625,
+      570.0874633789062
+    ],
+    "page": 8
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "... the frequency, ranging from ”Never” to ”Almost every day”. The y-axis on the lef...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 17389,
+    "length": 1,
+    "coordinates": [
+      344.2619323730469,
+      558.08251953125,
+      356.43621826171875,
+      570.0874633789062
+    ],
+    "page": 8
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "...anging from ”Never” to ”Almost every day”. The y-axis on the left shows the perce...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 17406,
+    "length": 1,
+    "coordinates": [
+      402.1844482421875,
+      558.08251953125,
+      432.6201477050781,
+      570.0874633789062
+    ],
+    "page": 8
+  },
+  {
+    "message": "If you want to indicate numerical ranges or time ranges, consider using an en dash.",
+    "context": "...nitoring 50.054 students aged between 18 - 35, physical exercise was found to be ne...",
+    "suggestions": [
+      "–"
+    ],
+    "category": "PUNCTUATION",
+    "rule_id": "DASH_RULE",
+    "offset": 17855,
+    "length": 3,
+    "coordinates": [
+      217.6571502685547,
+      643.3085327148438,
+      261.9408874511719,
+      655.3134765625
+    ],
+    "page": 8
+  },
+  {
+    "message": "Add a space between sentences.",
+    "context": "...d suicidality in a dose-response manner.The strongest effect-sizes were observed fo...",
+    "suggestions": [
+      " The"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SENTENCE_WHITESPACE",
+    "offset": 18004,
+    "length": 3,
+    "coordinates": [
+      454.6075744628906,
+      655.2635498046875,
+      488.9187316894531,
+      667.2684936523438
+    ],
+    "page": 8
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...r three-fold increased odds of both  8  scoring high on the HSCL-25, and self-reported ...",
+    "suggestions": [
+      "Scoring"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 18173,
+    "length": 7,
+    "coordinates": [
+      358.6179504394531,
+      679.173583984375,
+      397.9004211425781,
+      691.1785278320312
+    ],
+    "page": 8
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ger effect-sizes were observed for men (ORs ranging from 3.5 to 4.8). Also, physica...",
+    "suggestions": [
+      "ORS",
+      "Or",
+      "Mrs"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 18329,
+    "length": 3,
+    "coordinates": [
+      193.7269744873047,
+      153.70758056640625,
+      273.312255859375,
+      165.71250915527344
+    ],
+    "page": 9
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...th problems, but with generally smaller ORs. Similarly, graded associations were al...",
+    "suggestions": [
+      "ORS",
+      "Or",
+      "Mrs"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 18492,
+    "length": 3,
+    "coordinates": [
+      464.57012939453125,
+      165.66259765625,
+      145.9264373779297,
+      189.62254333496094
+    ],
+    "page": 9
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...link to self-harm and suicide attempts (ORs ranging from 1.9 to 2.5)[28] Another st...",
+    "suggestions": [
+      "ORS",
+      "Or",
+      "Mrs"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 18606,
+    "length": 3,
+    "coordinates": [
+      189.4928741455078,
+      189.5726318359375,
+      204.9946746826172,
+      201.5775604248047
+    ],
+    "page": 9
+  },
+  {
+    "message": "Do not mix variants of the same word (‘analyse’ and ‘analyze’) within a single text.",
+    "context": "...ging from 1.9 to 2.5)[28] Another study analysed data from 1021 participants concluded t...",
+    "suggestions": [
+      "analyzed"
+    ],
+    "category": "MISC",
+    "rule_id": "EN_WORD_COHERENCY",
+    "offset": 18653,
+    "length": 8,
+    "coordinates": [
+      365.76116943359375,
+      189.5726318359375,
+      418.0548095703125,
+      201.5775604248047
+    ],
+    "page": 9
+  },
+  {
+    "message": "Add a space between sentences.",
+    "context": "... and the prevalence of suicide attempts.A comprehensive investigation conducted b...",
+    "suggestions": [
+      " A"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SENTENCE_WHITESPACE",
+    "offset": 19029,
+    "length": 1,
+    "coordinates": [
+      460.42572021484375,
+      260.2896728515625,
+      474.81170654296875,
+      272.29461669921875
+    ],
+    "page": 9
+  },
+  {
+    "message": "Add a space between sentences.",
+    "context": "...identify help-seekers who are in crisis.More importantly,the KARA model achieved a m...",
+    "suggestions": [
+      " More"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "SENTENCE_WHITESPACE",
+    "offset": 20400,
+    "length": 4,
+    "coordinates": [
+      321.4275207519531,
+      462.51361083984375,
+      356.9342041015625,
+      474.5185546875
+    ],
+    "page": 9
+  },
+  {
+    "message": "Put a space after the comma.",
+    "context": "...ekers who are in crisis.More importantly,the KARA model achieved a much higher recal...",
+    "suggestions": [
+      ", the"
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "COMMA_PARENTHESIS_WHITESPACE",
+    "offset": 20416,
+    "length": 4,
+    "coordinates": [
+      393.616455078125,
+      462.51361083984375,
+      443.30987548828125,
+      474.5185546875
+    ],
+    "page": 9
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...-risk cases, 10% more than the baseline BiLSTM model.[31] Some research authors used a...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 20626,
+    "length": 6,
+    "coordinates": [
+      476.7442321777344,
+      486.4245910644531,
+      142.3299102783203,
+      510.384521484375
+    ],
+    "page": 9
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...a bidirectional long short-term memory (BiLSTM) model, which can capture both past and...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 20711,
+    "length": 6,
+    "coordinates": [
+      181.2638702392578,
+      510.3345947265625,
+      230.90750122070312,
+      522.3395385742188
+    ],
+    "page": 9
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...call, and F1-score. They found that the BiLSTM model performed the best, followed by t...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 21065,
+    "length": 6,
+    "coordinates": [
+      106.3549575805664,
+      558.155517578125,
+      172.15794372558594,
+      570.1604614257812
+    ],
+    "page": 9
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...enting suicide in online platforms. The BiLSTM model surpasses the other ML and DL mod...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 21273,
+    "length": 6,
+    "coordinates": [
+      225.9459991455078,
+      582.0654907226562,
+      285.8211669921875,
+      594.0704345703125
+    ],
+    "page": 9
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ability, ECG - Electrocardiogram, PPG - Photoplethysmography, MDD - Major Depressive Disorder, REM -...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 22011,
+    "length": 20,
+    "coordinates": [
+      179.93885803222656,
+      201.46563720703125,
+      278.7778015136719,
+      213.47056579589844
+    ],
+    "page": 10
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... REM - Rapid Eye Movement, BDI - Beck’s Deppresion Index, PHQ-9 - Patient Health Questiona...",
+    "suggestions": [
+      "Depression"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 22105,
+    "length": 10,
+    "coordinates": [
+      215.64476013183594,
+      213.420654296875,
+      278.1003112792969,
+      225.4255828857422
+    ],
+    "page": 10
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...eppresion Index, PHQ-9 - Patient Health Questionaire  4.2. Dataset In this study, we utilize...",
+    "suggestions": [
+      "Questionnaire"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 22146,
+    "length": 12,
+    "coordinates": [
+      412.24664306640625,
+      213.420654296875,
+      488.91876220703125,
+      225.4255828857422
+    ],
+    "page": 10
+  },
+  {
+    "message": "This phrase is duplicated. You should probably use “Survey Data” only once.",
+    "context": "...in the Supplementary Materials.  4.2.1. Survey Data Survey data was collected at multiple stages of the...",
+    "suggestions": [
+      "Survey Data"
+    ],
+    "category": "GRAMMAR",
+    "rule_id": "PHRASE_REPETITION",
+    "offset": 24010,
+    "length": 23,
+    "coordinates": [
+      106.35498046875,
+      536.8026123046875,
+      214.0008544921875,
+      548.8075561523438
+    ],
+    "page": 10
+  },
+  {
+    "message": "It appears that hyphens are missing.",
+    "context": "... the start and at the end of the study (pre/post surveys), along with short weekly Ecological Mo...",
+    "suggestions": [
+      "pre- / post-surveys"
+    ],
+    "category": "GRAMMAR",
+    "rule_id": "PRE_AND_POST_NN",
+    "offset": 24160,
+    "length": 16,
+    "coordinates": [
+      106.35498046875,
+      584.0936279296875,
+      182.09068298339844,
+      596.0985717773438
+    ],
+    "page": 10
+  },
+  {
+    "message": "Nouns are not usually modified by plural nouns. Is it possible that you meant to use the singular or possessive form here?",
+    "context": "...m was focused on to distinguish whether participants scores indicated at least mild depressi...",
+    "suggestions": [
+      "participant",
+      "participants'"
+    ],
+    "category": "GRAMMAR",
+    "rule_id": "PLURAL_MODIFIER",
+    "offset": 24606,
+    "length": 12,
+    "coordinates": [
+      375.6739501953125,
+      643.86962890625,
+      463.2252502441406,
+      655.8745727539062
+    ],
+    "page": 10
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... the background. Additionally, wearable Fitbits were provided to collect their physical...",
+    "suggestions": [
+      "Fitbit's",
+      "Fitbit",
+      "Fit bits"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 25454,
+    "length": 7,
+    "coordinates": [
+      223.7244110107422,
+      496.3265380859375,
+      247.16641235351562,
+      508.33148193359375
+    ],
+    "page": 11
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...d wearable PGHD. In a previous study by Makhmutova et al [33], an initial version of Phase...",
+    "suggestions": [
+      "Akhmatova"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 25923,
+    "length": 10,
+    "coordinates": [
+      279.2857971191406,
+      608.0035400390625,
+      332.1174621582031,
+      620.0084838867188
+    ],
+    "page": 11
+  },
+  {
+    "message": "A period is misplaced or missing.",
+    "context": "...PGHD. In a previous study by Makhmutova et al [33], an initial version of Phase 1c wa...",
+    "suggestions": [
+      "et al."
+    ],
+    "category": "TYPOS",
+    "rule_id": "ET_AL",
+    "offset": 25934,
+    "length": 5,
+    "coordinates": [
+      334.6081237792969,
+      608.0035400390625,
+      364.21697998046875,
+      620.0084838867188
+    ],
+    "page": 11
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...fitting. To achieve this, we employ the CatBoost algorithm with Dropouts Meet Multiple A...",
+    "suggestions": [
+      "Cat Boost"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 26110,
+    "length": 8,
+    "coordinates": [
+      399.99261474609375,
+      631.9135131835938,
+      443.698486328125,
+      643.91845703125
+    ],
+    "page": 11
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...tion [35] to exclude features with  11  lesser contributions to the model’s performanc...",
+    "suggestions": [
+      "Lesser"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 26560,
+    "length": 6,
+    "coordinates": [
+      322.6231689453125,
+      691.6895141601562,
+      368.0127258300781,
+      703.6944580078125
+    ],
+    "page": 11
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... To optimize the hyperparameters of our LightGBM model, we conduct randomized search 5-f...",
+    "suggestions": [
+      "Light GBM"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 26844,
+    "length": 8,
+    "coordinates": [
+      319.6741943359375,
+      165.66259765625,
+      404.3562927246094,
+      177.6675262451172
+    ],
+    "page": 12
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...dies, to identify the optimal features. LightGBM DART was chosen as the algorithm due to...",
+    "suggestions": [
+      "Light GBM"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 29017,
+    "length": 8,
+    "coordinates": [
+      212.5663604736328,
+      491.44061279296875,
+      269.2834777832031,
+      503.445556640625
+    ],
+    "page": 12
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Area Under the Precision-Recall Curve (AUPRC) as performance metrics. Feature import...",
+    "suggestions": [
+      "AU PRC",
+      "AUP RC"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 29258,
+    "length": 5,
+    "coordinates": [
+      182.1107635498047,
+      527.3065795898438,
+      242.2649383544922,
+      539.3115234375
+    ],
+    "page": 12
+  },
+  {
+    "message": "Unpaired symbol: ‘‘’ seems to be missing",
+    "context": "...s evaluated using a combination of ’Gain’ importance and ’split’ importance. Gain...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 29350,
+    "length": 1,
+    "coordinates": [
+      207.5252685546875,
+      539.2615966796875,
+      252.34701538085938,
+      551.2665405273438
+    ],
+    "page": 12
+  },
+  {
+    "message": "Unpaired symbol: ‘‘’ seems to be missing",
+    "context": "... a combination of ’Gain’ importance and ’split’ importance. Gain importance measu...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 29367,
+    "length": 1,
+    "coordinates": [
+      274.8724670410156,
+      539.2615966796875,
+      312.551025390625,
+      551.2665405273438
+    ],
+    "page": 12
+  },
+  {
+    "message": "Unpaired symbol: ‘‘’ seems to be missing",
+    "context": "...bination of ’Gain’ importance and ’split’ importance. Gain importance measures th...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 29373,
+    "length": 1,
+    "coordinates": [
+      316.1275939941406,
+      539.2615966796875,
+      337.7165222167969,
+      551.2665405273438
+    ],
+    "page": 12
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ilities.  5.3. Combining Text Data with Phsyiological Data  We leverage a pretrained BERT (Bi...",
+    "suggestions": [
+      "Physiological"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 30033,
+    "length": 13,
+    "coordinates": [
+      223.4454803466797,
+      634.903564453125,
+      330.2445373535156,
+      646.9085083007812
+    ],
+    "page": 12
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...through the BERT model, which generates highdimensional embeddings that capture the semantic an...",
+    "suggestions": [
+      "high dimensional"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 31381,
+    "length": 15,
+    "coordinates": [
+      229.96099853515625,
+      285.2147216796875,
+      286.97698974609375,
+      297.21966552734375
+    ],
+    "page": 13
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...taset by up to 3x. We were able to  13  construct a multi-class classification model that...",
+    "suggestions": [
+      "Construct"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 33822,
+    "length": 9,
+    "coordinates": [
+      236.5164031982422,
+      685.7125244140625,
+      278.04052734375,
+      697.7174682617188
+    ],
+    "page": 13
+  },
+  {
+    "message": "An apostrophe may be missing.",
+    "context": "... classification model that determines a participants depression severity for a given month, ...",
+    "suggestions": [
+      "participants'",
+      "participant's"
+    ],
+    "category": "TYPOS",
+    "rule_id": "POSSESSIVE_APOSTROPHE",
+    "offset": 33885,
+    "length": 12,
+    "coordinates": [
+      292.656005859375,
+      703.6455078125,
+      142.87789916992188,
+      153.7574920654297
+    ],
+    "page": 13
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "....7%) were thus labeled as positive  14  cases. The second phase model was optimized u...",
+    "suggestions": [
+      "Cases"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 35420,
+    "length": 5,
+    "coordinates": [
+      230.87750244140625,
+      691.6895141601562,
+      274.1948547363281,
+      703.6944580078125
+    ],
+    "page": 14
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ed using various input feature sets and LightGBM model hyperparameters. As shown in Figu...",
+    "suggestions": [
+      "Light GBM"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 35501,
+    "length": 8,
+    "coordinates": [
+      140.89544677734375,
+      153.70758056640625,
+      195.341064453125,
+      165.71250915527344
+    ],
+    "page": 15
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...herefore, we considered specificity and AUPRC as secondary performance metrics to obs...",
+    "suggestions": [
+      "AU PRC",
+      "AUP RC"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 36086,
+    "length": 5,
+    "coordinates": [
+      106.3550033569336,
+      237.3936767578125,
+      140.11825561523438,
+      249.3986053466797
+    ],
+    "page": 15
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...specificity of 65.3% (95% CI 4.2%), and AUPRC of 0.31 (95% CI 0.024). In comparison, ...",
+    "suggestions": [
+      "AU PRC",
+      "AUP RC"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 36322,
+    "length": 5,
+    "coordinates": [
+      385.7960510253906,
+      261.3037109375,
+      437.073486328125,
+      273.30865478515625
+    ],
+    "page": 15
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...igned 20.7% positive labels reported an AUPRC of 0.21, a sensitivity of 19.8%, and a ...",
+    "suggestions": [
+      "AU PRC",
+      "AUP RC"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 36441,
+    "length": 5,
+    "coordinates": [
+      131.8692169189453,
+      285.2147216796875,
+      164.5166778564453,
+      297.21966552734375
+    ],
+    "page": 15
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... includes the 95% confidence intervals (CIs) for the split feature importance, prov...",
+    "suggestions": [
+      "CI's",
+      "CI",
+      "Cis"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 37383,
+    "length": 3,
+    "coordinates": [
+      106.35501098632812,
+      640.2965698242188,
+      139.55038452148438,
+      652.301513671875
+    ],
+    "page": 15
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "... feature’s importance. The abbreviation ”SM” in the description likely refers to ...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 37521,
+    "length": 1,
+    "coordinates": [
+      269.6419982910156,
+      652.2525634765625,
+      314.46368408203125,
+      664.2575073242188
+    ],
+    "page": 15
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "...ature’s importance. The abbreviation ”SM” in the description likely refers to ”sa...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 37524,
+    "length": 1,
+    "coordinates": [
+      269.6419982910156,
+      652.2525634765625,
+      314.46368408203125,
+      664.2575073242188
+    ],
+    "page": 15
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "...SM” in the description likely refers to ”sample month,” indicating that the PHQ-9...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 37562,
+    "length": 1,
+    "coordinates": [
+      404.1170654296875,
+      652.2525634765625,
+      438.41827392578125,
+      664.2575073242188
+    ],
+    "page": 15
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "...cription likely refers to ”sample month,” indicating that the PHQ-9 features were...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 37576,
+    "length": 1,
+    "coordinates": [
+      106.35501098632812,
+      664.2075805664062,
+      121.84685516357422,
+      676.2125244140625
+    ],
+    "page": 15
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "... time points throughout the study.  15  important features, with additional details in Mu...",
+    "suggestions": [
+      "Important"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 37680,
+    "length": 9,
+    "coordinates": [
+      137.0697021484375,
+      676.16259765625,
+      190.44935607910156,
+      688.1675415039062
+    ],
+    "page": 15
+  },
+  {
+    "message": "Put a space after the comma.",
+    "context": "...t predict health-relevant outcomes [[38],[39]]. In this study, we introduce a two-...",
+    "suggestions": [
+      ", ["
+    ],
+    "category": "TYPOGRAPHY",
+    "rule_id": "COMMA_PARENTHESIS_WHITESPACE",
+    "offset": 38873,
+    "length": 2,
+    "coordinates": [
+      256.53118896484375,
+      321.0796813964844,
+      290.035400390625,
+      333.0846252441406
+    ],
+    "page": 16
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...s using low-cost wearable devices [41], PGHD [42], and smartphones [43]. Additionall...",
+    "suggestions": [
+      "PhD",
+      "PGD",
+      "PGCD"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 40151,
+    "length": 4,
+    "coordinates": [
+      212.9947052001953,
+      488.4525146484375,
+      254.80772399902344,
+      500.45745849609375
+    ],
+    "page": 16
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Area Under the Precision-Recall Curve (AUPRC) of 0.31 (95% CI 0.024). Compared to si...",
+    "suggestions": [
+      "AU PRC",
+      "AUP RC"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 40497,
+    "length": 5,
+    "coordinates": [
+      378.6030578613281,
+      536.2724609375,
+      406.8271179199219,
+      548.2774047851562
+    ],
+    "page": 16
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... of 1,000 samples, which resulted in an AUPRC of 0.21, a sensitivity of 19.8%, and a ...",
+    "suggestions": [
+      "AU PRC",
+      "AUP RC"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 40654,
+    "length": 5,
+    "coordinates": [
+      235.77920532226562,
+      560.1834716796875,
+      290.82257080078125,
+      572.1884155273438
+    ],
+    "page": 16
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "... and overall number of hypersomnia  16  days, were also selected. The most important...",
+    "suggestions": [
+      "Days"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 41643,
+    "length": 4,
+    "coordinates": [
+      106.35504913330078,
+      691.6904296875,
+      137.6276397705078,
+      703.6953735351562
+    ],
+    "page": 16
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "...phase 1c are inspired by the concept of ”weak labeling,” which can help reduce la...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 41929,
+    "length": 1,
+    "coordinates": [
+      106.3550033569336,
+      165.66259765625,
+      116.31759643554688,
+      177.6675262451172
+    ],
+    "page": 17
+  },
+  {
+    "message": "Unpaired symbol: ‘“’ seems to be missing",
+    "context": "...spired by the concept of ”weak labeling,” which can help reduce large-scale noisy...",
+    "suggestions": [],
+    "category": "PUNCTUATION",
+    "rule_id": "EN_UNPAIRED_QUOTES",
+    "offset": 41944,
+    "length": 1,
+    "coordinates": [
+      142.83802795410156,
+      165.66259765625,
+      175.20652770996094,
+      177.6675262451172
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...mediate PHQ-9 category labels. However, LightGBM’s ability to handle missing values ensu...",
+    "suggestions": [
+      "Light GBM"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 42198,
+    "length": 8,
+    "coordinates": [
+      412.1569519042969,
+      189.5726318359375,
+      450.1642761230469,
+      201.5775604248047
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...other participants.  References  [1] H. Cai, X.-M. Xie, Q. Zhang, X. Cui, J.-X. Lin...",
+    "suggestions": [
+      "CAI",
+      "Can",
+      "Car"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 42756,
+    "length": 3,
+    "coordinates": [
+      115.48074340820312,
+      273.25970458984375,
+      208.7207489013672,
+      285.2646484375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...cipants.  References  [1] H. Cai, X.-M. Xie, Q. Zhang, X. Cui, J.-X. Lin, K. Sim, G...",
+    "suggestions": [
+      "Die",
+      "Lie",
+      "Tie"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 42767,
+    "length": 3,
+    "coordinates": [
+      226.414306640625,
+      273.25970458984375,
+      270.6781311035156,
+      285.2646484375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...es  [1] H. Cai, X.-M. Xie, Q. Zhang, X. Cui, J.-X. Lin, K. Sim, G. S. Ungvari, L. Z...",
+    "suggestions": [
+      "Coo",
+      "Cut",
+      "Cup"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 42785,
+    "length": 3,
+    "coordinates": [
+      302.4787292480469,
+      273.25970458984375,
+      338.44366455078125,
+      285.2646484375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Zhang, X. Cui, J.-X. Lin, K. Sim, G. S. Ungvari, L. Zhang, Y.-T. Xiang, Prevalence of s...",
+    "suggestions": [
+      "Unguard"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 42815,
+    "length": 7,
+    "coordinates": [
+      416.98870849609375,
+      273.25970458984375,
+      488.9186096191406,
+      285.2646484375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... K. Sim, G. S. Ungvari, L. Zhang, Y.-T. Xiang, Prevalence of suicidality in major dep...",
+    "suggestions": [
+      "Jiang",
+      "Xians",
+      "Liang"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 42840,
+    "length": 5,
+    "coordinates": [
+      106.3550033569336,
+      302.7880859375,
+      152.64126586914062,
+      315.7494201660156
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...psychiatry 12 (2021) 690130.  [2] K. L. Lovero, P. F. Dos Santos, A. X. Come, M. L. Wa...",
+    "suggestions": [
+      "Lover",
+      "Lovers"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43018,
+    "length": 6,
+    "coordinates": [
+      299.1601867675781,
+      332.8837890625,
+      334.3561706542969,
+      342.4877624511719
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ro, P. F. Dos Santos, A. X. Come, M. L. Wainberg, M. A. Oquendo, Suicide in global menta...",
+    "suggestions": [
+      "Weinberg",
+      "Wain berg"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43062,
+    "length": 8,
+    "coordinates": [
+      460.1404113769531,
+      332.8837890625,
+      488.92047119140625,
+      342.4877624511719
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ntos, A. X. Come, M. L. Wainberg, M. A. Oquendo, Suicide in global mental health, Curre...",
+    "suggestions": [
+      "Orlando",
+      "Aquino",
+      "Innuendo"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43078,
+    "length": 7,
+    "coordinates": [
+      132.8082733154297,
+      342.3477783203125,
+      166.01168823242188,
+      351.9517517089844
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...al health estimates (2017) 24 p. [4] I. Berardelli, G. Serafini, N. Cortese, F. Fiasch` e,...",
+    "suggestions": [
+      "Ghirardelli"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43285,
+    "length": 10,
+    "coordinates": [
+      145.12948608398438,
+      370.74176025390625,
+      226.40054321289062,
+      380.3457336425781
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ates (2017) 24 p. [4] I. Berardelli, G. Serafini, N. Cortese, F. Fiasch` e, R. C. OConno...",
+    "suggestions": [
+      "Strafing",
+      "Seraphic",
+      "Seraing"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43300,
+    "length": 8,
+    "coordinates": [
+      190.54307556152344,
+      370.74176025390625,
+      258.27294921875,
+      380.3457336425781
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...4 p. [4] I. Berardelli, G. Serafini, N. Cortese, F. Fiasch` e, R. C. OConnor, M. Pompil...",
+    "suggestions": [
+      "Cortes",
+      "Cortege",
+      "Cortège"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43313,
+    "length": 7,
+    "coordinates": [
+      260.2654724121094,
+      370.74176025390625,
+      288.16082763671875,
+      380.3457336425781
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Berardelli, G. Serafini, N. Cortese, F. Fiasch` e, R. C. OConnor, M. Pompili, The invo...",
+    "suggestions": [
+      "Fiasco"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43325,
+    "length": 6,
+    "coordinates": [
+      290.1533508300781,
+      370.74176025390625,
+      345.2746276855469,
+      380.3457336425781
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...rafini, N. Cortese, F. Fiasch` e, R. C. OConnor, M. Pompili, The involvement of hypotha...",
+    "suggestions": [
+      "O'Connor",
+      "Connor",
+      "O Connor"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43342,
+    "length": 7,
+    "coordinates": [
+      347.745361328125,
+      370.74176025390625,
+      389.14208984375,
+      380.3457336425781
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ortese, F. Fiasch` e, R. C. OConnor, M. Pompili, The involvement of hypothalamus– pitui...",
+    "suggestions": [
+      "Compile",
+      "Pompeii"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43354,
+    "length": 7,
+    "coordinates": [
+      391.1346130371094,
+      370.74176025390625,
+      420.79937744140625,
+      380.3457336425781
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ent of hypothalamus– pituitary–adrenal (hpa) axis in suicide risk, Brain sciences 1...",
+    "suggestions": [
+      "HPA",
+      "PA",
+      "HP"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43415,
+    "length": 3,
+    "coordinates": [
+      216.60531616210938,
+      380.20574951171875,
+      242.9464874267578,
+      389.8097229003906
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ain sciences 10 (9) (2020) 653.  [5] V. Vaccarino, L. Badimon, J. D. Bremner, E. Cenko, J...",
+    "suggestions": [
+      "Vacation",
+      "Vaccine",
+      "Vacating"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43484,
+    "length": 9,
+    "coordinates": [
+      440.2525939941406,
+      380.20574951171875,
+      488.91802978515625,
+      389.8097229003906
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...0 (9) (2020) 653.  [5] V. Vaccarino, L. Badimon, J. D. Bremner, E. Cenko, J. Cubedo, M....",
+    "suggestions": [
+      "Madison",
+      "Bayamon",
+      "Badman"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43498,
+    "length": 7,
+    "coordinates": [
+      124.61500549316406,
+      389.6707458496094,
+      179.06668090820312,
+      399.27471923828125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...3.  [5] V. Vaccarino, L. Badimon, J. D. Bremner, E. Cenko, J. Cubedo, M. DorobanÅ£u, D....",
+    "suggestions": [
+      "Brenner"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43513,
+    "length": 7,
+    "coordinates": [
+      181.0592041015625,
+      389.6707458496094,
+      212.7084503173828,
+      399.27471923828125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...accarino, L. Badimon, J. D. Bremner, E. Cenko, J. Cubedo, M. DorobanÅ£u, D. J. Duncke...",
+    "suggestions": [
+      "Cent",
+      "Congo",
+      "Cello"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43525,
+    "length": 5,
+    "coordinates": [
+      214.7009735107422,
+      389.6707458496094,
+      245.4735107421875,
+      399.27471923828125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...L. Badimon, J. D. Bremner, E. Cenko, J. Cubedo, M. DorobanÅ£u, D. J. Duncker, . Koller...",
+    "suggestions": [
+      "Cubed",
+      "Cube do"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43535,
+    "length": 6,
+    "coordinates": [
+      247.46603393554688,
+      389.6707458496094,
+      281.1158142089844,
+      399.27471923828125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... J. D. Bremner, E. Cenko, J. Cubedo, M. DorobanÅ£u, D. J. Duncker, . Koller, O. Manfrini, ...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43546,
+    "length": 10,
+    "coordinates": [
+      283.10833740234375,
+      389.6707458496094,
+      319.6273498535156,
+      399.27471923828125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Cenko, J. Cubedo, M. DorobanÅ£u, D. J. Duncker, . Koller, O. Manfrini, D. Milii, T. Pa...",
+    "suggestions": [
+      "Dancer",
+      "Bunker",
+      "Tucker"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43564,
+    "length": 7,
+    "coordinates": [
+      332.9055480957031,
+      389.6707458496094,
+      370.0940246582031,
+      399.27471923828125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Did you just mean “,” or “.”?",
+    "context": "... J. Cubedo, M. DorobanÅ£u, D. J. Duncker, . Koller, O. Manfrini, D. Milii, T. Padr,...",
+    "suggestions": [
+      ",",
+      "."
+    ],
+    "category": "PUNCTUATION",
+    "rule_id": "COMMA_PERIOD",
+    "offset": 43571,
+    "length": 3,
+    "coordinates": [
+      356.1463623046875,
+      389.6707458496094,
+      370.0940246582031,
+      399.27471923828125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Cubedo, M. DorobanÅ£u, D. J. Duncker, . Koller, O. Manfrini, D. Milii, T. Padr, A. R. ...",
+    "suggestions": [
+      "Killer",
+      "Roller",
+      "Keller"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43575,
+    "length": 6,
+    "coordinates": [
+      110.34000396728516,
+      399.1347351074219,
+      131.333251953125,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...DorobanÅ£u, D. J. Duncker, . Koller, O. Manfrini, D. Milii, T. Padr, A. R. Pries, A. A. ...",
+    "suggestions": [
+      "Mancini",
+      "Manuring"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43586,
+    "length": 8,
+    "coordinates": [
+      133.35765075683594,
+      399.1347351074219,
+      176.10128784179688,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... J. Duncker, . Koller, O. Manfrini, D. Milii, T. Padr, A. R. Pries, A. A. Quyyumi, D...",
+    "suggestions": [
+      "Mil ii"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43599,
+    "length": 5,
+    "coordinates": [
+      178.1256866455078,
+      399.1347351074219,
+      209.3445587158203,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...er, . Koller, O. Manfrini, D. Milii, T. Padr, A. R. Pries, A. A. Quyyumi, D. Tousoul...",
+    "suggestions": [
+      "Pair",
+      "Pad",
+      "Pads"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43609,
+    "length": 4,
+    "coordinates": [
+      218.4862518310547,
+      399.1347351074219,
+      257.8186950683594,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., D. Milii, T. Padr, A. R. Pries, A. A. Quyyumi, D. Tousoulis, D. Trifunovi, Z. Vasilje...",
+    "suggestions": [
+      "Quorum",
+      "Quorums"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43634,
+    "length": 7,
+    "coordinates": [
+      300.59423828125,
+      399.1347351074219,
+      327.3817443847656,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...T. Padr, A. R. Pries, A. A. Quyyumi, D. Tousoulis, D. Trifunovi, Z. Vasiljevi, C. De Wit,...",
+    "suggestions": [
+      "Topsoils",
+      "Bouzoukis",
+      "Tousles"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43646,
+    "length": 9,
+    "coordinates": [
+      340.5085144042969,
+      399.1347351074219,
+      384.1129455566406,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Pries, A. A. Quyyumi, D. Tousoulis, D. Trifunovi, Z. Vasiljevi, C. De Wit, R. Bugiardini...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43660,
+    "length": 9,
+    "coordinates": [
+      395.9087219238281,
+      399.1347351074219,
+      432.06109619140625,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Quyyumi, D. Tousoulis, D. Trifunovi, Z. Vasiljevi, C. De Wit, R. Bugiardini, Depression a...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43674,
+    "length": 9,
+    "coordinates": [
+      438.1024475097656,
+      399.1347351074219,
+      469.6322021484375,
+      408.73870849609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Trifunovi, Z. Vasiljevi, C. De Wit, R. Bugiardini, Depression and coronary heart disease:...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43699,
+    "length": 10,
+    "coordinates": [
+      152.21543884277344,
+      408.5997314453125,
+      178.48487854003906,
+      418.2037048339844
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...g group on coronary pathophysiology and microcirculation, European heart journal 41 (17) (2019) ...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43827,
+    "length": 16,
+    "coordinates": [
+      182.28663635253906,
+      418.063720703125,
+      242.73184204101562,
+      427.6676940917969
+    ],
+    "page": 17
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...heart journal 41 (17) (2019) 1687–1696. doi:10.1093/eurheartj/ehy913. URL https://d...",
+    "suggestions": [
+      "Doi"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 43894,
+    "length": 3,
+    "coordinates": [
+      406.6528625488281,
+      418.063720703125,
+      425.2471008300781,
+      427.6676940917969
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...org/10.1093/eurheartj/ehy913  [6] R. A. Bernert, T. E. Joiner, Sleep disturbances and s...",
+    "suggestions": [
+      "Bernard",
+      "Bennett",
+      "Ernest"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 43980,
+    "length": 7,
+    "coordinates": [
+      329.66973876953125,
+      427.5287170410156,
+      350.91802978515625,
+      437.1326904296875
+    ],
+    "page": 17
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...e and treatment Volume 3 (2008) 735743. doi:https://doi.org/10.2147/ndt.s1248. URL ...",
+    "suggestions": [
+      "Doi"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 44131,
+    "length": 3,
+    "coordinates": [
+      285.124267578125,
+      446.45770263671875,
+      307.7035827636719,
+      456.0616760253906
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...gov/pmc/articles/PMC2656315/  [7] A. L. Glaz, Y. Haralambous, D.-H. Kim-Dufor, P. Le...",
+    "suggestions": [
+      "Glad",
+      "Graz",
+      "Glaze"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44239,
+    "length": 4,
+    "coordinates": [
+      254.8463134765625,
+      455.92169189453125,
+      375.44232177734375,
+      465.5256652832031
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...rticles/PMC2656315/  [7] A. L. Glaz, Y. Haralambous, D.-H. Kim-Dufor, P. Lenca, R. Billot, ...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44248,
+    "length": 11,
+    "coordinates": [
+      254.8463134765625,
+      455.92169189453125,
+      375.44232177734375,
+      465.5256652832031
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...  [7] A. L. Glaz, Y. Haralambous, D.-H. Kim-Dufor, P. Lenca, R. Billot, T. C. Ryan, J. Ma...",
+    "suggestions": [
+      "Kim-Du for"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44267,
+    "length": 9,
+    "coordinates": [
+      254.8463134765625,
+      455.92169189453125,
+      140.5551300048828,
+      474.99066162109375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...az, Y. Haralambous, D.-H. Kim-Dufor, P. Lenca, R. Billot, T. C. Ryan, J. Marsh, J. De...",
+    "suggestions": [
+      "Lena",
+      "Léna",
+      "Len ca"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44281,
+    "length": 5,
+    "coordinates": [
+      142.54693603515625,
+      466.7670593261719,
+      366.83319091796875,
+      474.7371826171875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...alambous, D.-H. Kim-Dufor, P. Lenca, R. Billot, T. C. Ryan, J. Marsh, J. DeVylder, M. ...",
+    "suggestions": [
+      "Ballot",
+      "Billet",
+      "Billow"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44291,
+    "length": 6,
+    "coordinates": [
+      142.54693603515625,
+      466.7670593261719,
+      366.83319091796875,
+      474.7371826171875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ca, R. Billot, T. C. Ryan, J. Marsh, J. DeVylder, M. Walter, S. Berrouiguet, C. Lemey, M...",
+    "suggestions": [
+      "Elder",
+      "Dealer",
+      "Defender"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44324,
+    "length": 8,
+    "coordinates": [
+      142.54693603515625,
+      466.7670593261719,
+      366.83319091796875,
+      474.7371826171875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...n, J. Marsh, J. DeVylder, M. Walter, S. Berrouiguet, C. Lemey, Machine learning and natural...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44348,
+    "length": 11,
+    "coordinates": [
+      143.5513458251953,
+      474.8506774902344,
+      216.1669158935547,
+      484.45465087890625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...DeVylder, M. Walter, S. Berrouiguet, C. Lemey, Machine learning and natural language ...",
+    "suggestions": [
+      "Lima",
+      "Lena",
+      "Lama"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44364,
+    "length": 5,
+    "coordinates": [
+      171.67782592773438,
+      474.8506774902344,
+      236.5225372314453,
+      484.45465087890625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ng in mental health: Systematic review, JMIR. Journal of medical internet research 2...",
+    "suggestions": [
+      "MIR",
+      "EMIR",
+      "AMIR"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44457,
+    "length": 4,
+    "coordinates": [
+      133.0791778564453,
+      484.315673828125,
+      173.14483642578125,
+      493.9196472167969
+    ],
+    "page": 17
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...et research 23 (5) (2021) e15708e15708. doi:https://doi.org/10.2196/15708. URL http...",
+    "suggestions": [
+      "Doi"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 44528,
+    "length": 3,
+    "coordinates": [
+      381.1246032714844,
+      484.315673828125,
+      402.8192443847656,
+      493.9196472167969
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ih.gov/pmc/articles/PMC8132982/  [8] K. Kroenke, R. L. Spitzer, J. B. Williams, The phq...",
+    "suggestions": [
+      "Krone"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44629,
+    "length": 7,
+    "coordinates": [
+      307.4410095214844,
+      493.7796630859375,
+      468.53265380859375,
+      503.3836364746094
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...icine 16 (9) (2001) 606–613.  [9] V. R. Meghrajani, M. Marathe, R. Sharma, A. Potdukhe, M....",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44800,
+    "length": 10,
+    "coordinates": [
+      343.91961669921875,
+      512.7086181640625,
+      395.4941711425781,
+      522.3126220703125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...001) 606–613.  [9] V. R. Meghrajani, M. Marathe, R. Sharma, A. Potdukhe, M. B. Wanjari,...",
+    "suggestions": [
+      "Marathi",
+      "Maratha",
+      "Marthe"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44815,
+    "length": 7,
+    "coordinates": [
+      397.9330139160156,
+      512.7086181640625,
+      422.84759521484375,
+      522.3126220703125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... Meghrajani, M. Marathe, R. Sharma, A. Potdukhe, M. B. Wanjari, A. B. Taksande, A compr...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44838,
+    "length": 8,
+    "coordinates": [
+      456.3778381347656,
+      512.7086181640625,
+      148.07090759277344,
+      531.7776489257812
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Marathe, R. Sharma, A. Potdukhe, M. B. Wanjari, A. B. Taksande, A comprehensive analys...",
+    "suggestions": [
+      "Anjali",
+      "Manjaro"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44854,
+    "length": 7,
+    "coordinates": [
+      150.0634307861328,
+      522.1736450195312,
+      174.4120635986328,
+      531.7776489257812
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...arma, A. Potdukhe, M. B. Wanjari, A. B. Taksande, A comprehensive analysis of mental hea...",
+    "suggestions": [
+      "Oakland",
+      "Lausanne",
+      "Askance"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44869,
+    "length": 8,
+    "coordinates": [
+      176.4045867919922,
+      522.1736450195312,
+      226.87123107910156,
+      531.7776489257812
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...e analysis of mental health problems in india and the role of mental asylums, Curusdo...",
+    "suggestions": [
+      "India",
+      "INDIA",
+      "Indian"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44933,
+    "length": 5,
+    "coordinates": [
+      233.0634765625,
+      531.6376342773438,
+      259.4046630859375,
+      541.2416381835938
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...n india and the role of mental asylums, Curusdoi:https://doi.org/10.7759/cureus.42559. U...",
+    "suggestions": [
+      "Burundi",
+      "Cursor",
+      "Caruso"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 44971,
+    "length": 8,
+    "coordinates": [
+      363.11962890625,
+      531.6376342773438,
+      404.1178283691406,
+      541.2416381835938
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "....gov/pmc/articles/PMC10460242/  [10] A. Haines-Delmont, G. Chahal, A. J. Bruen, A. Wall, C. T....",
+    "suggestions": [
+      "Haines-Belmont"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45086,
+    "length": 14,
+    "coordinates": [
+      337.7831115722656,
+      541.1026611328125,
+      488.92010498046875,
+      550.7066650390625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...MC10460242/  [10] A. Haines-Delmont, G. Chahal, A. J. Bruen, A. Wall, C. T. Khan, R. S...",
+    "suggestions": [
+      "Canal",
+      "Chapel",
+      "Choral"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45105,
+    "length": 6,
+    "coordinates": [
+      337.7831115722656,
+      541.1026611328125,
+      488.92010498046875,
+      550.7066650390625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...10] A. Haines-Delmont, G. Chahal, A. J. Bruen, A. Wall, C. T. Khan, R. Sadashiv, D. F...",
+    "suggestions": [
+      "Brien",
+      "Bruin"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45119,
+    "length": 5,
+    "coordinates": [
+      337.7831115722656,
+      541.1026611328125,
+      140.55506896972656,
+      560.170654296875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...l, A. J. Bruen, A. Wall, C. T. Khan, R. Sadashiv, D. Fearnley, et al., Testing suicide r...",
+    "suggestions": [
+      "Sadistic",
+      "Ladyship",
+      "Satoshi"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45150,
+    "length": 8,
+    "coordinates": [
+      142.546875,
+      551.947021484375,
+      371.06524658203125,
+      559.9171142578125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...n, A. Wall, C. T. Khan, R. Sadashiv, D. Fearnley, et al., Testing suicide risk predictio...",
+    "suggestions": [
+      "Fairly",
+      "Fiercely",
+      "Farley"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45163,
+    "length": 8,
+    "coordinates": [
+      142.546875,
+      551.947021484375,
+      371.06524658203125,
+      559.9171142578125
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...tal health settings: feasibility study, JMIR mHealth and uHealth 8 (6) (2020) e15901...",
+    "suggestions": [
+      "MIR",
+      "EMIR",
+      "AMIR"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45315,
+    "length": 4,
+    "coordinates": [
+      138.1799774169922,
+      569.49560546875,
+      206.20472717285156,
+      579.099609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ealth settings: feasibility study, JMIR mHealth and uHealth 8 (6) (2020) e15901.  [11] ...",
+    "suggestions": [
+      "health",
+      "m Health"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45320,
+    "length": 7,
+    "coordinates": [
+      172.10865783691406,
+      569.49560546875,
+      206.20472717285156,
+      579.099609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...gs: feasibility study, JMIR mHealth and uHealth 8 (6) (2020) e15901.  [11] S. Choudhary...",
+    "suggestions": [
+      "health"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45332,
+    "length": 7,
+    "coordinates": [
+      207.82266235351562,
+      569.49560546875,
+      246.18272399902344,
+      579.099609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...d uHealth 8 (6) (2020) e15901.  [11] S. Choudhary, N. Thomas, J. Ellenberger, G. Srinivas...",
+    "suggestions": [
+      "Chaudhary",
+      "Choudhury"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45370,
+    "length": 9,
+    "coordinates": [
+      345.0040588378906,
+      569.49560546875,
+      385.1255798339844,
+      579.099609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...5901.  [11] S. Choudhary, N. Thomas, J. Ellenberger, G. Srinivasan, R. Cohen, et al., A mac...",
+    "suggestions": [
+      "Kellenberger"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45395,
+    "length": 11,
+    "coordinates": [
+      407.8323974609375,
+      569.49560546875,
+      468.5646667480469,
+      579.099609375
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...behavioral patterns of depression using nonintrusive smartphone data (complementary path to ...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45531,
+    "length": 12,
+    "coordinates": [
+      311.6009521484375,
+      588.4255981445312,
+      353.0455017089844,
+      598.0296020507812
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ment): Prospective observational study, JMIR Formative Research 6 (5) (2022) e37736....",
+    "suggestions": [
+      "MIR",
+      "EMIR",
+      "AMIR"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45660,
+    "length": 4,
+    "coordinates": [
+      353.11767578125,
+      597.8895874023438,
+      366.3958740234375,
+      607.4935913085938
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... F. Chen, Z. Chen, T. Li, G. Harari, S. Tignor, X. Zhou, D. Ben-Zeev, A. T. Campbell, ...",
+    "suggestions": [
+      "Signor"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45759,
+    "length": 6,
+    "coordinates": [
+      302.54736328125,
+      607.3546142578125,
+      341.44146728515625,
+      616.9586181640625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... Li, G. Harari, S. Tignor, X. Zhou, D. Ben-Zeev, A. T. Campbell, Studentlife: assessing...",
+    "suggestions": [
+      "Benzene",
+      "Benzema"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45779,
+    "length": 8,
+    "coordinates": [
+      377.7532958984375,
+      607.3546142578125,
+      406.9637451171875,
+      616.9586181640625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., X. Zhou, D. Ben-Zeev, A. T. Campbell, Studentlife: assessing mental health, academic perf...",
+    "suggestions": [
+      "Student life"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 45805,
+    "length": 11,
+    "coordinates": [
+      449.4603271484375,
+      607.3546142578125,
+      131.92295837402344,
+      626.422607421875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ous computing, 2014, pp. 3–14.  [13] S. Saeb, M. Zhang, M. Kwasny, C. J. Karr, K. Ko...",
+    "suggestions": [
+      "Saab",
+      "AEB",
+      "SAAB"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46052,
+    "length": 4,
+    "coordinates": [
+      188.05682373046875,
+      635.7476196289062,
+      203.99700927734375,
+      645.3516235351562
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., pp. 3–14.  [13] S. Saeb, M. Zhang, M. Kwasny, C. J. Karr, K. Kording, D. C. Mohr, Th...",
+    "suggestions": [
+      "Kearny",
+      "Kasey",
+      "Washy"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46071,
+    "length": 6,
+    "coordinates": [
+      227.23780822753906,
+      635.7476196289062,
+      284.845703125,
+      645.3516235351562
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...13] S. Saeb, M. Zhang, M. Kwasny, C. J. Karr, K. Kording, D. C. Mohr, The relationsh...",
+    "suggestions": [
+      "Karl",
+      "Carr",
+      "Kerr"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46085,
+    "length": 4,
+    "coordinates": [
+      287.5475769042969,
+      635.7476196289062,
+      322.50445556640625,
+      645.3516235351562
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...eb, M. Zhang, M. Kwasny, C. J. Karr, K. Kording, D. C. Mohr, The relationship between c...",
+    "suggestions": [
+      "Wording",
+      "Fording",
+      "Cording"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46094,
+    "length": 7,
+    "coordinates": [
+      325.2063293457031,
+      635.7476196289062,
+      365.9017028808594,
+      645.3516235351562
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... Kwasny, C. J. Karr, K. Kording, D. C. Mohr, The relationship between clinical, mom...",
+    "suggestions": [
+      "Moor",
+      "Bohr",
+      "Moho"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46109,
+    "length": 4,
+    "coordinates": [
+      382.81427001953125,
+      635.7476196289062,
+      416.4720153808594,
+      645.3516235351562
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Computing Technologies for Healthcare (PervasiveHealth), IEEE, 2015, pp. 229–232.  17  [14] K....",
+    "suggestions": [
+      "Pervasive Health"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46294,
+    "length": 15,
+    "coordinates": [
+      198.56143188476562,
+      664.1416015625,
+      281.6656799316406,
+      673.74560546875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., IEEE, 2015, pp. 229–232.  17  [14] K. Opoku Asare, Y. Terhorst, J. Vega, E. Peltone...",
+    "suggestions": [
+      "Spoke",
+      "Poke",
+      "Poky"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46350,
+    "length": 5,
+    "coordinates": [
+      409.64166259765625,
+      664.1416015625,
+      450.5681457519531,
+      673.74560546875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., 2015, pp. 229–232.  17  [14] K. Opoku Asare, Y. Terhorst, J. Vega, E. Peltonen, E. ...",
+    "suggestions": [
+      "Aware",
+      "ASEAN",
+      "Agar"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46356,
+    "length": 5,
+    "coordinates": [
+      420.0984191894531,
+      664.1416015625,
+      450.5681457519531,
+      673.74560546875
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... 229–232.  17  [14] K. Opoku Asare, Y. Terhorst, J. Vega, E. Peltonen, E. Lagerspetz, D...",
+    "suggestions": [
+      "Terrorist",
+      "Terrors"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46366,
+    "length": 8,
+    "coordinates": [
+      453.0468444824219,
+      664.1416015625,
+      166.99984741210938,
+      683.2095947265625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... Opoku Asare, Y. Terhorst, J. Vega, E. Peltonen, E. Lagerspetz, D. Ferreira, Predicting...",
+    "suggestions": [
+      "Peptone"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46388,
+    "length": 8,
+    "coordinates": [
+      180.27801513671875,
+      673.6055908203125,
+      214.7965087890625,
+      683.2095947265625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., Y. Terhorst, J. Vega, E. Peltonen, E. Lagerspetz, D. Ferreira, Predicting depression fro...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46401,
+    "length": 10,
+    "coordinates": [
+      216.78903198242188,
+      673.6055908203125,
+      275.8076477050781,
+      683.2095947265625
+    ],
+    "page": 17
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...importance analysis: exploratory study, JMIR mHealth and uHealth 9 (7) (2021) e26540...",
+    "suggestions": [
+      "MIR",
+      "EMIR",
+      "AMIR"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46596,
+    "length": 4,
+    "coordinates": [
+      229.3420867919922,
+      153.0576171875,
+      256.34478759765625,
+      162.66159057617188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...tance analysis: exploratory study, JMIR mHealth and uHealth 9 (7) (2021) e26540.  [15] ...",
+    "suggestions": [
+      "health",
+      "m Health"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46601,
+    "length": 7,
+    "coordinates": [
+      229.3420867919922,
+      153.0576171875,
+      284.6864929199219,
+      162.66159057617188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...is: exploratory study, JMIR mHealth and uHealth 9 (7) (2021) e26540.  [15] R. Razavi, A...",
+    "suggestions": [
+      "health"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46613,
+    "length": 7,
+    "coordinates": [
+      286.9181213378906,
+      153.0576171875,
+      315.92132568359375,
+      162.66159057617188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...d uHealth 9 (7) (2021) e26540.  [15] R. Razavi, A. Gharipour, M. Gharipour, Depression...",
+    "suggestions": [
+      "Ravi",
+      "Rezai"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46651,
+    "length": 6,
+    "coordinates": [
+      414.97381591796875,
+      153.0576171875,
+      450.83929443359375,
+      162.66159057617188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... (7) (2021) e26540.  [15] R. Razavi, A. Gharipour, M. Gharipour, Depression screening usi...",
+    "suggestions": [
+      "Khairpur"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46662,
+    "length": 9,
+    "coordinates": [
+      428.7142639160156,
+      153.0576171875,
+      488.92047119140625,
+      162.66159057617188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...6540.  [15] R. Razavi, A. Gharipour, M. Gharipour, Depression screening using mobile phon...",
+    "suggestions": [
+      "Khairpur"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46676,
+    "length": 9,
+    "coordinates": [
+      124.61500549316406,
+      162.52264404296875,
+      191.60365295410156,
+      172.12661743164062
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ciation 27 (4) (2020) 522–530.  [16] J. Goltermann, D. Emden, E. J. Leehr, K. Dohm, R. Red...",
+    "suggestions": [
+      "Boltzmann",
+      "Goleman",
+      "Golo Mann"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46860,
+    "length": 10,
+    "coordinates": [
+      124.61500549316406,
+      181.45166015625,
+      183.92845153808594,
+      191.05563354492188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...0.  [16] J. Goltermann, D. Emden, E. J. Leehr, K. Dohm, R. Redlich, U. Dannlowski, T....",
+    "suggestions": [
+      "Leer",
+      "Lee hr"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46888,
+    "length": 5,
+    "coordinates": [
+      211.37745666503906,
+      181.45166015625,
+      229.74851989746094,
+      191.05563354492188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... Goltermann, D. Emden, E. J. Leehr, K. Dohm, R. Redlich, U. Dannlowski, T. Hahn, N....",
+    "suggestions": [
+      "Doom",
+      "Dorm",
+      "Doha"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46898,
+    "length": 4,
+    "coordinates": [
+      231.7410430908203,
+      181.45166015625,
+      263.1671447753906,
+      191.05563354492188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ann, D. Emden, E. J. Leehr, K. Dohm, R. Redlich, U. Dannlowski, T. Hahn, N. Opel, et al...",
+    "suggestions": [
+      "Replica",
+      "Reddish",
+      "Relics"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46907,
+    "length": 7,
+    "coordinates": [
+      265.15966796875,
+      181.45166015625,
+      330.012451171875,
+      191.05563354492188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...n, E. J. Leehr, K. Dohm, R. Redlich, U. Dannlowski, T. Hahn, N. Opel, et al., Smartphoneba...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46919,
+    "length": 10,
+    "coordinates": [
+      293.2702331542969,
+      181.45166015625,
+      369.63983154296875,
+      191.05563354492188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": ".... Dannlowski, T. Hahn, N. Opel, et al., Smartphonebased self-reports of depressive symptoms usi...",
+    "suggestions": [
+      "Smartphone based"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 46957,
+    "length": 15,
+    "coordinates": [
+      416.1214599609375,
+      181.45166015625,
+      171.62213134765625,
+      200.51962280273438
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ring application in psychiatry (remap): interformat validation study, JMIR Mental Health 8 ...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 47072,
+    "length": 11,
+    "coordinates": [
+      447.7464599609375,
+      190.9156494140625,
+      180.8520050048828,
+      209.98464965820312
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... (remap): interformat validation study, JMIR Mental Health 8 (1) (2021) e24333.  [17...",
+    "suggestions": [
+      "MIR",
+      "EMIR",
+      "AMIR"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 47102,
+    "length": 4,
+    "coordinates": [
+      191.07763671875,
+      200.38067626953125,
+      224.40061950683594,
+      209.98464965820312
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...(3) (2013) 288–296.  [18] D. Lee, J. H. Baek, Y. J. Cho, K. S. Hong, Association of ...",
+    "suggestions": [
+      "Back",
+      "Bank",
+      "Bark"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 47365,
+    "length": 4,
+    "coordinates": [
+      464.4756774902344,
+      219.3096923828125,
+      488.9200134277344,
+      228.91366577148438
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...88–296.  [18] D. Lee, J. H. Baek, Y. J. Cho, K. S. Hong, Association of resting hea...",
+    "suggestions": [
+      "CHO",
+      "Who",
+      "Tho"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 47377,
+    "length": 3,
+    "coordinates": [
+      124.61500549316406,
+      228.773681640625,
+      172.594970703125,
+      238.37765502929688
+    ],
+    "page": 18
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...d mortality, Frontiers in Psychology 5. doi:10.3389/fpsyg.2014.01387. URL https://w...",
+    "suggestions": [
+      "Doi"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 47847,
+    "length": 3,
+    "coordinates": [
+      262.4498291015625,
+      266.6317138671875,
+      277.0590515136719,
+      276.2356872558594
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...icles/10.3389/fpsyg.2014.01387  [20] K. Georgiou, A. V. Larentzakis, N. N. Khamis, G. I....",
+    "suggestions": [
+      "Georgios"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 47952,
+    "length": 8,
+    "coordinates": [
+      196.2741241455078,
+      276.09674072265625,
+      241.44065856933594,
+      285.7007141113281
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...syg.2014.01387  [20] K. Georgiou, A. V. Larentzakis, N. N. Khamis, G. I. Alsuhaibani, Y. A....",
+    "suggestions": [
+      "Kazantzakis"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 47968,
+    "length": 11,
+    "coordinates": [
+      244.3098907470703,
+      276.09674072265625,
+      344.3425598144531,
+      285.7007141113281
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...] K. Georgiou, A. V. Larentzakis, N. N. Khamis, G. I. Alsuhaibani, Y. A. Alaska, E. J....",
+    "suggestions": [
+      "Khakis"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 47987,
+    "length": 6,
+    "coordinates": [
+      244.3098907470703,
+      276.09674072265625,
+      140.55520629882812,
+      295.1647033691406
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... A. V. Larentzakis, N. N. Khamis, G. I. Alsuhaibani, Y. A. Alaska, E. J. Giallafos, Can wea...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48001,
+    "length": 11,
+    "coordinates": [
+      142.5469970703125,
+      286.94110107421875,
+      400.690185546875,
+      294.9112243652344
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... G. I. Alsuhaibani, Y. A. Alaska, E. J. Giallafos, Can wearable devices accurately measur...",
+    "suggestions": [
+      "Gallegos",
+      "Gallants"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48034,
+    "length": 9,
+    "coordinates": [
+      142.5469970703125,
+      286.94110107421875,
+      400.690185546875,
+      294.9112243652344
+    ],
+    "page": 18
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...urately measure heart rate variability? a systematic review, Folia medica 60 (1) ...",
+    "suggestions": [
+      "A"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 48109,
+    "length": 1,
+    "coordinates": [
+      283.6020202636719,
+      295.0257568359375,
+      291.3489685058594,
+      304.6297302246094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... rate variability? a systematic review, Folia medica 60 (1) (2018) 7–20.  [21] B. Ben...",
+    "suggestions": [
+      "Folio",
+      "Folic",
+      "Foliar"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48130,
+    "length": 5,
+    "coordinates": [
+      354.8069763183594,
+      295.0257568359375,
+      389.51678466796875,
+      304.6297302246094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...variability? a systematic review, Folia medica 60 (1) (2018) 7–20.  [21] B. Bent, B. A...",
+    "suggestions": [
+      "media",
+      "medical",
+      "Media"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48136,
+    "length": 6,
+    "coordinates": [
+      365.3912658691406,
+      295.0257568359375,
+      399.43157958984375,
+      304.6297302246094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "....  [21] B. Bent, B. A. Goldstein, W. A. Kibbe, J. P. Dunn, Investigating sources of i...",
+    "suggestions": [
+      "Kibble"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48201,
+    "length": 5,
+    "coordinates": [
+      213.60116577148438,
+      304.48974609375,
+      243.47308349609375,
+      314.0937194824219
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ine 3 (1) (2020) 18.  [22] Q. Zhang, X. Zeng, W. Hu, D. Zhou, A machine learning-emp...",
+    "suggestions": [
+      "Zen",
+      "Deng",
+      "Zing"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48353,
+    "length": 4,
+    "coordinates": [
+      336.5793151855469,
+      313.95477294921875,
+      369.59149169921875,
+      323.5587463378906
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... (2020) 18.  [22] Q. Zhang, X. Zeng, W. Hu, D. Zhou, A machine learning-empowered ...",
+    "suggestions": [
+      "HU",
+      "He",
+      "EU"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48362,
+    "length": 2,
+    "coordinates": [
+      372.05426025390625,
+      313.95477294921875,
+      406.4532470703125,
+      323.5587463378906
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...g of blood pressure and heart rate with ear-ecg/ppg, IEEE Access 5 (2017) 10547–10561. ...",
+    "suggestions": [
+      "earned",
+      "direct",
+      "aired"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48499,
+    "length": 7,
+    "coordinates": [
+      296.8323974609375,
+      332.8837585449219,
+      362.5857849121094,
+      342.48773193359375
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...od pressure and heart rate with ear-ecg/ppg, IEEE Access 5 (2017) 10547–10561. doi:...",
+    "suggestions": [
+      "RPG",
+      "pig",
+      "PPP"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48507,
+    "length": 3,
+    "coordinates": [
+      296.8323974609375,
+      332.8837585449219,
+      362.5857849121094,
+      342.48773193359375
+    ],
+    "page": 18
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": ".../ppg, IEEE Access 5 (2017) 10547–10561. doi:10.1109/ACCESS.2017.2707472.  [23] N. S...",
+    "suggestions": [
+      "Doi"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 48546,
+    "length": 3,
+    "coordinates": [
+      439.3299255371094,
+      332.8837585449219,
+      488.9199523925781,
+      342.48773193359375
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...i:10.1109/ACCESS.2017.2707472.  [23] N. Sj¨ ostr¨ om, M. Waern, J. Hetta, Nightmare...",
+    "suggestions": [
+      "SJ",
+      "SJA",
+      "SJM"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48588,
+    "length": 3,
+    "coordinates": [
+      226.34527587890625,
+      342.3477478027344,
+      252.90164184570312,
+      351.95172119140625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "....1109/ACCESS.2017.2707472.  [23] N. Sj¨ ostr¨ om, M. Waern, J. Hetta, Nightmares and ...",
+    "suggestions": [
+      "Astra",
+      "outré",
+      "outre"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48592,
+    "length": 5,
+    "coordinates": [
+      256.08172607421875,
+      342.3477478027344,
+      286.7108459472656,
+      351.95172119140625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Make sure that ‘om’ refers to a mystic syllable and is not a spelling error. Did you mean “on”?",
+    "context": "...ACCESS.2017.2707472.  [23] N. Sj¨ ostr¨ om, M. Waern, J. Hetta, Nightmares and sle...",
+    "suggestions": [
+      "on"
+    ],
+    "category": "TYPOS",
+    "rule_id": "OM",
+    "offset": 48598,
+    "length": 2,
+    "coordinates": [
+      270.7785949707031,
+      342.3477478027344,
+      286.7108459472656,
+      351.95172119140625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...2017.2707472.  [23] N. Sj¨ ostr¨ om, M. Waern, J. Hetta, Nightmares and sleep disturb...",
+    "suggestions": [
+      "Warn"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48605,
+    "length": 5,
+    "coordinates": [
+      289.8988952636719,
+      342.3477478027344,
+      319.20501708984375,
+      351.95172119140625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...72.  [23] N. Sj¨ ostr¨ om, M. Waern, J. Hetta, Nightmares and sleep disturbances in r...",
+    "suggestions": [
+      "Etta",
+      "Jetta"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48615,
+    "length": 5,
+    "coordinates": [
+      322.3851013183594,
+      342.3477478027344,
+      361.7996520996094,
+      351.95172119140625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...s in relation to suicidality in suicide attempters, Sleep 30 (1) (2007) 91–95.  [24] M. Y....",
+    "suggestions": [
+      "at tempters"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48694,
+    "length": 10,
+    "coordinates": [
+      106.35498046875,
+      361.2767333984375,
+      144.25701904296875,
+      370.8807067871094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Sleep 30 (1) (2007) 91–95.  [24] M. Y. Agargun, R. Cartwright, Rem sleep, dream variab...",
+    "suggestions": [
+      "Agar gun"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48745,
+    "length": 7,
+    "coordinates": [
+      230.7767791748047,
+      361.2767333984375,
+      299.710205078125,
+      370.8807067871094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...rch 119 (1-2) (2003) 33–39.  [25] R. A. Bernert, T. E. Joiner, Sleep disturbances and s...",
+    "suggestions": [
+      "Bernard",
+      "Bennett",
+      "Ernest"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 48891,
+    "length": 7,
+    "coordinates": [
+      238.52308654785156,
+      380.2057189941406,
+      278.4612731933594,
+      389.8096923828125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...reatment 3 (6) (2007) 735–743.  [26] M. Radha, P. Fonseca, A. Moreau, M. Ross, A. Cer...",
+    "suggestions": [
+      "Rad ha"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49049,
+    "length": 5,
+    "coordinates": [
+      272.8821716308594,
+      399.13470458984375,
+      308.8990783691406,
+      408.7386779785156
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...dha, P. Fonseca, A. Moreau, M. Ross, A. Cerny, P. Anderer, X. Long, R. M. Aarts, Slee...",
+    "suggestions": [
+      "CERN",
+      "Corny",
+      "Czerny"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49091,
+    "length": 5,
+    "coordinates": [
+      376.3740539550781,
+      399.13470458984375,
+      463.9735412597656,
+      408.7386779785156
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...nseca, A. Moreau, M. Ross, A. Cerny, P. Anderer, X. Long, R. M. Aarts, Sleep stage clas...",
+    "suggestions": [
+      "Wanderer",
+      "Panderer"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49101,
+    "length": 7,
+    "coordinates": [
+      409.0834045410156,
+      399.13470458984375,
+      463.9735412597656,
+      408.7386779785156
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...s, A. Cerny, P. Anderer, X. Long, R. M. Aarts, Sleep stage classification from heart-...",
+    "suggestions": [
+      "Parts",
+      "Arts",
+      "Carts"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49125,
+    "length": 5,
+    "coordinates": [
+      138.1163330078125,
+      408.5997009277344,
+      168.21939086914062,
+      418.20367431640625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...reports 9 (1) (2019) 14149.  [27] A. H. Farabaugh, D. Mischoulon, M. Fava, C. Green, W. G...",
+    "suggestions": [
+      "Karabakh",
+      "Kavanaugh"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49284,
+    "length": 9,
+    "coordinates": [
+      142.1013946533203,
+      427.5286865234375,
+      207.19314575195312,
+      437.1326599121094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...(2019) 14149.  [27] A. H. Farabaugh, D. Mischoulon, M. Fava, C. Green, W. Guyker, J. Alper...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49298,
+    "length": 10,
+    "coordinates": [
+      174.62734985351562,
+      427.5286865234375,
+      242.62020874023438,
+      437.1326599121094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...[27] A. H. Farabaugh, D. Mischoulon, M. Fava, C. Green, W. Guyker, J. Alpert, The po...",
+    "suggestions": [
+      "Lava",
+      "Java",
+      "Ava"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49313,
+    "length": 4,
+    "coordinates": [
+      244.61273193359375,
+      427.5286865234375,
+      277.81622314453125,
+      437.1326599121094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...h, D. Mischoulon, M. Fava, C. Green, W. Guyker, J. Alpert, The potential relationship ...",
+    "suggestions": [
+      "Bunker",
+      "Buyer",
+      "Quaker"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49332,
+    "length": 6,
+    "coordinates": [
+      308.3656311035156,
+      427.5286865234375,
+      361.40667724609375,
+      437.1326599121094
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... subtypes of major depressive disorder (mdd), Acta Psychiatrica Scandinavica 110 (6...",
+    "suggestions": [
+      "MDD",
+      "mid",
+      "add"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49456,
+    "length": 3,
+    "coordinates": [
+      351.06890869140625,
+      436.99267578125,
+      373.4250793457031,
+      446.5966491699219
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...pes of major depressive disorder (mdd), Acta Psychiatrica Scandinavica 110 (6) (2004...",
+    "suggestions": [
+      "ACTA",
+      "Act",
+      "Acts"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49462,
+    "length": 4,
+    "coordinates": [
+      351.06890869140625,
+      436.99267578125,
+      388.71173095703125,
+      446.5966491699219
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...f major depressive disorder (mdd), Acta Psychiatrica Scandinavica 110 (6) (2004) 465–470.  [...",
+    "suggestions": [
+      "Psychiatric",
+      "Psychiatric a"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49467,
+    "length": 12,
+    "coordinates": [
+      376.3182373046875,
+      436.99267578125,
+      459.6536865234375,
+      446.5966491699219
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ssive disorder (mdd), Acta Psychiatrica Scandinavica 110 (6) (2004) 465–470.  [28] M. Grasda...",
+    "suggestions": [
+      "Scandinavia"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49480,
+    "length": 12,
+    "coordinates": [
+      422.0188293457031,
+      436.99267578125,
+      488.919921875,
+      446.5966491699219
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...navica 110 (6) (2004) 465–470.  [28] M. Grasdalsmoen, H. R. Eriksen, K. J. Lønning, B. Siver...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49526,
+    "length": 12,
+    "coordinates": [
+      205.3282012939453,
+      446.4576721191406,
+      246.5894012451172,
+      456.0616455078125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...) 465–470.  [28] M. Grasdalsmoen, H. R. Eriksen, K. J. Lønning, B. Sivertsen, Physical ...",
+    "suggestions": [
+      "Erikson",
+      "Erik sen"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49546,
+    "length": 7,
+    "coordinates": [
+      256.94256591796875,
+      446.4576721191406,
+      310.7168884277344,
+      456.0616455078125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...] M. Grasdalsmoen, H. R. Eriksen, K. J. Lønning, B. Sivertsen, Physical exercise, menta...",
+    "suggestions": [
+      "Running",
+      "Winning",
+      "Landing"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49561,
+    "length": 7,
+    "coordinates": [
+      312.57391357421875,
+      446.4576721191406,
+      338.69195556640625,
+      456.0616455078125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...smoen, H. R. Eriksen, K. J. Lønning, B. Sivertsen, Physical exercise, mental health probl...",
+    "suggestions": [
+      "Diverse",
+      "Seventeen",
+      "Diverted"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49573,
+    "length": 9,
+    "coordinates": [
+      340.5489807128906,
+      446.4576721191406,
+      419.7638854980469,
+      456.0616455078125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...1–11.  [29] N. Fabiano, A. Gupta, J. G. Fiedorowicz, J. Firth, B. Stubbs, D. Vancampfort, F...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49741,
+    "length": 11,
+    "coordinates": [
+      477.4111022949219,
+      465.38665771484375,
+      147.19427490234375,
+      484.4546203613281
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Gupta, J. G. Fiedorowicz, J. Firth, B. Stubbs, D. Vancampfort, F. B. Schuch, L. J. Ca...",
+    "suggestions": [
+      "Stubby",
+      "Stubs"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49767,
+    "length": 6,
+    "coordinates": [
+      186.38323974609375,
+      474.85064697265625,
+      217.94480895996094,
+      484.4546203613281
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...G. Fiedorowicz, J. Firth, B. Stubbs, D. Vancampfort, F. B. Schuch, L. J. Carr, M. Solmi, Th...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49778,
+    "length": 11,
+    "coordinates": [
+      219.9373321533203,
+      474.85064697265625,
+      267.7658996582031,
+      484.4546203613281
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Firth, B. Stubbs, D. Vancampfort, F. B. Schuch, L. J. Carr, M. Solmi, The effect of ex...",
+    "suggestions": [
+      "Such",
+      "Church",
+      "Chuck"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49797,
+    "length": 6,
+    "coordinates": [
+      269.7584228515625,
+      474.85064697265625,
+      312.92449951171875,
+      484.4546203613281
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ncampfort, F. B. Schuch, L. J. Carr, M. Solmi, The effect of exercise on suicidal beh...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49820,
+    "length": 5,
+    "coordinates": [
+      106.35498809814453,
+      484.3156433105469,
+      119.63317108154297,
+      493.91961669921875
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ournal of affective disorders.  [30] A. Arowosegbe, T. Oyelade, Application of natural lan...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 49985,
+    "length": 10,
+    "coordinates": [
+      229.81419372558594,
+      493.7796325683594,
+      306.2156066894531,
+      503.38360595703125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...tive disorders.  [30] A. Arowosegbe, T. Oyelade, Application of natural language proces...",
+    "suggestions": [
+      "Decade",
+      "Operate",
+      "Adelaide"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50000,
+    "length": 7,
+    "coordinates": [
+      307.86541748046875,
+      493.7796325683594,
+      342.3122253417969,
+      503.38360595703125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ication of natural language processing (nlp) in detecting and preventing suicide id...",
+    "suggestions": [
+      "NLP",
+      "NP",
+      "CLP"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50053,
+    "length": 3,
+    "coordinates": [
+      470.9895935058594,
+      493.7796325683594,
+      488.92236328125,
+      503.38360595703125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...lic Health 20 (2) (2023) 1514.  [31] Z. Xu, Y. Xu, F. Cheung, M. Cheng, D. Lung, Y...",
+    "suggestions": [
+      "EU",
+      "Nu",
+      "Eu"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50220,
+    "length": 2,
+    "coordinates": [
+      164.1307373046875,
+      522.173583984375,
+      197.78050231933594,
+      531.777587890625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...lth 20 (2) (2023) 1514.  [31] Z. Xu, Y. Xu, F. Cheung, M. Cheng, D. Lung, Y. W. La...",
+    "suggestions": [
+      "EU",
+      "Nu",
+      "Eu"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50227,
+    "length": 2,
+    "coordinates": [
+      164.1307373046875,
+      522.173583984375,
+      197.78050231933594,
+      531.777587890625
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... & medicine 283 (2021) 114176.  [32] R. Haque, N. Islam, M. Islam, M. M. Ahsan, A com...",
+    "suggestions": [
+      "Hague"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50460,
+    "length": 5,
+    "coordinates": [
+      144.2772216796875,
+      550.5665893554688,
+      225.04617309570312,
+      560.1705932617188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...32] R. Haque, N. Islam, M. Islam, M. M. Ahsan, A comparative analysis on suicidal ide...",
+    "suggestions": [
+      "Than",
+      "San",
+      "Ahead"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50493,
+    "length": 5,
+    "coordinates": [
+      295.07147216796875,
+      550.5665893554688,
+      343.5057678222656,
+      560.1705932617188
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...is on suicidal ideation detection using nlp, machine, and deep learning, Technologi...",
+    "suggestions": [
+      "NLP",
+      "NP",
+      "CLP"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50560,
+    "length": 3,
+    "coordinates": [
+      147.8557891845703,
+      560.0316162109375,
+      173.7585906982422,
+      569.6356201171875
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Technologies 10 (3) (2022) 57.  [33] M. Makhmutova, R. Kainkaryam, M. Ferreira, J. Min, M....",
+    "suggestions": [
+      "Akhmatova"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50633,
+    "length": 10,
+    "coordinates": [
+      328.8483581542969,
+      569.49560546875,
+      393.0555114746094,
+      579.099609375
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... (3) (2022) 57.  [33] M. Makhmutova, R. Kainkaryam, M. Ferreira, J. Min, M. Jaggi, I. Clay...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50648,
+    "length": 10,
+    "coordinates": [
+      395.9327087402344,
+      569.49560546875,
+      453.7080078125,
+      579.099609375
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... R. Kainkaryam, M. Ferreira, J. Min, M. Jaggi, I. Clay, Prediction of self-reported d...",
+    "suggestions": [
+      "Maggi"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50684,
+    "length": 5,
+    "coordinates": [
+      124.614990234375,
+      578.9605712890625,
+      167.11155700683594,
+      588.5645751953125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...org/10.1145/3469266.3469878  [34] R. K. Vinayak, R. Gilad-Bachrach, Dart: Dropouts meet...",
+    "suggestions": [
+      "Vijaya",
+      "Vinay",
+      "Visayas"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50932,
+    "length": 7,
+    "coordinates": [
+      401.43255615234375,
+      597.8895874023438,
+      444.1762390136719,
+      607.4935913085938
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...3469266.3469878  [34] R. K. Vinayak, R. Gilad-Bachrach, Dart: Dropouts meet multiple additive ...",
+    "suggestions": [
+      "Glad-Bachrach"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 50944,
+    "length": 14,
+    "coordinates": [
+      401.43255615234375,
+      597.8895874023438,
+      488.9203796386719,
+      607.4935913085938
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...tics, PMLR, 2015, pp. 489–497.  [35] I. Guyon, J. Weston, S. Barnhill, V. Vapnik, Gen...",
+    "suggestions": [
+      "Guion",
+      "Guy on"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51094,
+    "length": 5,
+    "coordinates": [
+      285.5387268066406,
+      626.2825927734375,
+      329.12725830078125,
+      635.8865966796875
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... 489–497.  [35] I. Guyon, J. Weston, S. Barnhill, V. Vapnik, Gene selection for cancer c...",
+    "suggestions": [
+      "Barn hill"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51115,
+    "length": 8,
+    "coordinates": [
+      357.5247497558594,
+      626.2825927734375,
+      390.162353515625,
+      635.8865966796875
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...5] I. Guyon, J. Weston, S. Barnhill, V. Vapnik, Gene selection for cancer classificati...",
+    "suggestions": [
+      "Vapid",
+      "Vania",
+      "Vaping"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51128,
+    "length": 6,
+    "coordinates": [
+      391.68463134765625,
+      626.2825927734375,
+      418.75909423828125,
+      635.8865966796875
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...learning 46 (2002) 389–422.  [36] J. L. Fleiss, J. Cohen, The equivalence of weighted ...",
+    "suggestions": [
+      "Class",
+      "Glass",
+      "Flags"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51256,
+    "length": 6,
+    "coordinates": [
+      282.9963073730469,
+      645.2115478515625,
+      311.3300476074219,
+      654.8155517578125
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...e equivalence of weighted kappa and the intraclass correlation coefficient as measures of ...",
+    "suggestions": [
+      "infraclass"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51316,
+    "length": 10,
+    "coordinates": [
+      456.82440185546875,
+      645.2115478515625,
+      152.50238037109375,
+      664.2805786132812
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... (1973) 613–619.  [37] D. W. Aha, R. L. Bankert, A comparative evaluation of sequential...",
+    "suggestions": [
+      "Banker",
+      "Bankers"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51467,
+    "length": 7,
+    "coordinates": [
+      441.6488037109375,
+      664.1405639648438,
+      480.112548828125,
+      673.7445678710938
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...election algorithms (1995) 1–7. [38] M. Karas, N. Marinsek, J. Goldhahn, L. Foschini,...",
+    "suggestions": [
+      "Kara's",
+      "Kara",
+      "Karts"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51564,
+    "length": 5,
+    "coordinates": [
+      106.35501861572266,
+      683.069580078125,
+      143.13702392578125,
+      692.673583984375
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...lgorithms (1995) 1–7. [38] M. Karas, N. Marinsek, J. Goldhahn, L. Foschini, E. Ramirez, ...",
+    "suggestions": [
+      "Marine",
+      "Marines",
+      "Mariner"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51574,
+    "length": 8,
+    "coordinates": [
+      145.12954711914062,
+      683.069580078125,
+      178.55613708496094,
+      692.673583984375
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...95) 1–7. [38] M. Karas, N. Marinsek, J. Goldhahn, L. Foschini, E. Ramirez, I. Clay, Pred...",
+    "suggestions": [
+      "Goldman"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51587,
+    "length": 8,
+    "coordinates": [
+      180.5486602783203,
+      683.069580078125,
+      256.51165771484375,
+      692.673583984375
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... M. Karas, N. Marinsek, J. Goldhahn, L. Foschini, E. Ramirez, I. Clay, Predicting subjec...",
+    "suggestions": [
+      "Fishing",
+      "Coaching",
+      "Forcing"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51600,
+    "length": 8,
+    "coordinates": [
+      217.43426513671875,
+      683.069580078125,
+      291.30914306640625,
+      692.673583984375
+    ],
+    "page": 18
+  },
+  {
+    "message": "This sentence does not start with an uppercase letter.",
+    "context": "...ing subjective recovery from lower  18  limb surgery using consumer wearables, Digit...",
+    "suggestions": [
+      "Limb"
+    ],
+    "category": "CASING",
+    "rule_id": "UPPERCASE_SENTENCE_START",
+    "offset": 51678,
+    "length": 4,
+    "coordinates": [
+      124.61451721191406,
+      692.5345458984375,
+      156.566650390625,
+      702.1385498046875
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ppl. 1) (2020) 73–86.  [39] J. Dunn, L. Kidzinski, R. Runge, D. Witt, J. L. Hicks, S. M. ...",
+    "suggestions": [
+      "Kaczyński",
+      "Kaminski",
+      "Kid Ink"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51781,
+    "length": 9,
+    "coordinates": [
+      453.1820373535156,
+      692.5345458984375,
+      302.61859130859375,
+      715.6494750976562
+    ],
+    "page": 18
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... 73–86.  [39] J. Dunn, L. Kidzinski, R. Runge, D. Witt, J. L. Hicks, S. M. Sch¨ ussle...",
+    "suggestions": [
+      "Range",
+      "Grunge",
+      "Rune"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51795,
+    "length": 5,
+    "coordinates": [
+      124.61499786376953,
+      143.5936279296875,
+      164.98353576660156,
+      153.19760131835938
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., R. Runge, D. Witt, J. L. Hicks, S. M. Sch¨ ussler-Fiorenza Rose, X. Li, A. Bahmani...",
+    "suggestions": [
+      "Sch"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51830,
+    "length": 4,
+    "coordinates": [
+      219.2200469970703,
+      143.5936279296875,
+      277.2105407714844,
+      153.19760131835938
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Runge, D. Witt, J. L. Hicks, S. M. Sch¨ ussler-Fiorenza Rose, X. Li, A. Bahmani, S. L. Delp, T....",
+    "suggestions": [
+      "user-Fiorenza",
+      "ussler-Firenze"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51835,
+    "length": 15,
+    "coordinates": [
+      255.06954956054688,
+      143.5936279296875,
+      314.9808654785156,
+      153.19760131835938
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...M. Sch¨ ussler-Fiorenza Rose, X. Li, A. Bahmani, S. L. Delp, T. Hastie, et al., Wearabl...",
+    "suggestions": [
+      "Brahmani"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51867,
+    "length": 7,
+    "coordinates": [
+      356.8238830566406,
+      143.5936279296875,
+      401.9824523925781,
+      153.19760131835938
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Fiorenza Rose, X. Li, A. Bahmani, S. L. Delp, T. Hastie, et al., Wearable sensors en...",
+    "suggestions": [
+      "Help",
+      "Deep",
+      "Del"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 51882,
+    "length": 4,
+    "coordinates": [
+      106.35499572753906,
+      153.0576171875,
+      129.7073974609375,
+      162.66159057617188
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...icine 27 (6) (2021) 1105–1112.  [40] A. Brailean, J. Curtis, K. Davis, A. Dregan, M. Hot...",
+    "suggestions": [
+      "Brazilian"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52043,
+    "length": 8,
+    "coordinates": [
+      239.8546600341797,
+      162.52264404296875,
+      303.82269287109375,
+      172.12661743164062
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...0] A. Brailean, J. Curtis, K. Davis, A. Dregan, M. Hotopf, Characteristics, comorbidit...",
+    "suggestions": [
+      "Regan"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52077,
+    "length": 6,
+    "coordinates": [
+      354.54443359375,
+      162.52264404296875,
+      413.6507568359375,
+      172.12661743164062
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ean, J. Curtis, K. Davis, A. Dregan, M. Hotopf, Characteristics, comorbidities, and co...",
+    "suggestions": [
+      "Hoof",
+      "Hoop",
+      "Hoops"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52088,
+    "length": 6,
+    "coordinates": [
+      380.89361572265625,
+      162.52264404296875,
+      464.12542724609375,
+      172.12661743164062
+    ],
+    "page": 19
+  },
+  {
+    "message": "Did you mean “UK” (= United Kingdom)?",
+    "context": "... atypical depression: evidence from the uk biobank mental health survey, Psycholog...",
+    "suggestions": [
+      "UK"
+    ],
+    "category": "GRAMMAR",
+    "rule_id": "THE_US",
+    "offset": 52185,
+    "length": 2,
+    "coordinates": [
+      207.8382568359375,
+      181.45166015625,
+      228.26560974121094,
+      191.05563354492188
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...(2020) 1129–1138.  [41] Y. Zhang, A. A. Folarin, S. Sun, N. Cummins, R. Bendayan, Y. Ra...",
+    "suggestions": [
+      "Polaris",
+      "Flaring",
+      "Florin"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52288,
+    "length": 7,
+    "coordinates": [
+      163.34169006347656,
+      190.9156494140625,
+      208.8509521484375,
+      200.51962280273438
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., A. A. Folarin, S. Sun, N. Cummins, R. Bendayan, Y. Ranjan, Z. Rashid, P. Conde, C. Ste...",
+    "suggestions": [
+      "Zendaya"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52320,
+    "length": 8,
+    "coordinates": [
+      283.3873291015625,
+      190.9156494140625,
+      327.246826171875,
+      200.51962280273438
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...in, S. Sun, N. Cummins, R. Bendayan, Y. Ranjan, Z. Rashid, P. Conde, C. Stewart, P. La...",
+    "suggestions": [
+      "Iranian",
+      "Lankan",
+      "Canaan"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52333,
+    "length": 6,
+    "coordinates": [
+      329.15167236328125,
+      190.9156494140625,
+      373.8719177246094,
+      200.51962280273438
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...an, Z. Rashid, P. Conde, C. Stewart, P. Laiou, et al., Relationship between major dep...",
+    "suggestions": [
+      "Lieu"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52377,
+    "length": 5,
+    "coordinates": [
+      451.0623779296875,
+      190.9156494140625,
+      119.63317108154297,
+      209.98464965820312
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...cted using a wristband wearable device: multicenter longitudinal observational study, JMIR ...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52502,
+    "length": 11,
+    "coordinates": [
+      132.99952697753906,
+      209.84466552734375,
+      185.83328247070312,
+      219.44863891601562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...enter longitudinal observational study, JMIR mHealth and uHealth 9 (4) (2021) e24604...",
+    "suggestions": [
+      "MIR",
+      "EMIR",
+      "AMIR"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52548,
+    "length": 4,
+    "coordinates": [
+      275.6004943847656,
+      209.84466552734375,
+      305.273193359375,
+      219.44863891601562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... longitudinal observational study, JMIR mHealth and uHealth 9 (4) (2021) e24604.  [42] ...",
+    "suggestions": [
+      "health",
+      "m Health"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52553,
+    "length": 7,
+    "coordinates": [
+      307.9033203125,
+      209.84466552734375,
+      332.8179016113281,
+      219.44863891601562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...l observational study, JMIR mHealth and uHealth 9 (4) (2021) e24604.  [42] S. Kumar, J....",
+    "suggestions": [
+      "health"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52565,
+    "length": 7,
+    "coordinates": [
+      349.5949401855469,
+      209.84466552734375,
+      397.3836975097656,
+      219.44863891601562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., J. L. Tran, E. Ramirez, W.-N. Lee, L. Foschini, J. L. Juusola, et al., Design, recruit...",
+    "suggestions": [
+      "Fishing",
+      "Coaching",
+      "Forcing"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52648,
+    "length": 8,
+    "coordinates": [
+      228.72036743164062,
+      219.3096923828125,
+      292.20220947265625,
+      228.91366577148438
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... Ramirez, W.-N. Lee, L. Foschini, J. L. Juusola, et al., Design, recruitment, and basel...",
+    "suggestions": [
+      "Cupola",
+      "Ursula",
+      "Justly"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52664,
+    "length": 7,
+    "coordinates": [
+      294.1947326660156,
+      219.3096923828125,
+      341.792236328125,
+      228.91366577148438
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...d health outcomes: observational study, JMIR Mental Health 7 (7) (2020) e17075.  [43...",
+    "suggestions": [
+      "MIR",
+      "EMIR",
+      "AMIR"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52832,
+    "length": 4,
+    "coordinates": [
+      124.614990234375,
+      238.23870849609375,
+      170.20394897460938,
+      247.84268188476562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...7 (7) (2020) e17075.  [43] I. Moshe, Y. Terhorst, K. Opoku Asare, L. B. Sander, D. Ferre...",
+    "suggestions": [
+      "Terrorist",
+      "Terrors"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52891,
+    "length": 8,
+    "coordinates": [
+      305.0181579589844,
+      238.23870849609375,
+      338.5005798339844,
+      247.84268188476562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...e17075.  [43] I. Moshe, Y. Terhorst, K. Opoku Asare, L. B. Sander, D. Ferreira, H. Ba...",
+    "suggestions": [
+      "Spoke",
+      "Poke",
+      "Poky"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52904,
+    "length": 5,
+    "coordinates": [
+      355.5725402832031,
+      238.23870849609375,
+      388.44921875,
+      247.84268188476562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "....  [43] I. Moshe, Y. Terhorst, K. Opoku Asare, L. B. Sander, D. Ferreira, H. Baumeist...",
+    "suggestions": [
+      "Aware",
+      "ASEAN",
+      "Agar"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52910,
+    "length": 5,
+    "coordinates": [
+      368.97027587890625,
+      238.23870849609375,
+      388.44921875,
+      247.84268188476562
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ku Asare, L. B. Sander, D. Ferreira, H. Baumeister, D. C. Mohr, L. Pulkki-Råback, Predicti...",
+    "suggestions": [
+      "Paymaster"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52947,
+    "length": 10,
+    "coordinates": [
+      124.614990234375,
+      247.70269775390625,
+      167.34268188476562,
+      257.3066711425781
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...nder, D. Ferreira, H. Baumeister, D. C. Mohr, L. Pulkki-Råback, Predicting symptoms ...",
+    "suggestions": [
+      "Moor",
+      "Bohr",
+      "Moho"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52965,
+    "length": 4,
+    "coordinates": [
+      192.5760040283203,
+      247.70269775390625,
+      207.84669494628906,
+      257.3066711425781
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Ferreira, H. Baumeister, D. C. Mohr, L. Pulkki-Råback, Predicting symptoms of depression and ...",
+    "suggestions": [
+      "Pulaski-Råback",
+      "Pulkki-Aback"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 52974,
+    "length": 13,
+    "coordinates": [
+      209.83921813964844,
+      247.70269775390625,
+      119.63317108154297,
+      266.7716979980469
+    ],
+    "page": 19
+  },
+  {
+    "message": "Capitalize the proper noun “United States”.",
+    "context": "... the context of chronic diseases in the united states and china, International journal of nur...",
+    "suggestions": [
+      "United States"
+    ],
+    "category": "CASING",
+    "rule_id": "CAPITALIZATION",
+    "offset": 53214,
+    "length": 13,
+    "coordinates": [
+      124.614990234375,
+      276.09674072265625,
+      173.7585906982422,
+      285.7007141113281
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... (2019) 117–122.  [45] R. K. Bailey, J. Mokonogho, A. Kumar, Racial and ethnic difference...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53326,
+    "length": 9,
+    "coordinates": [
+      422.3934326171875,
+      285.56072998046875,
+      454.6086120605469,
+      295.1647033691406
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...d mental health in a national sample of british undergraduate students, Community menta...",
+    "suggestions": [
+      "British",
+      "brutish",
+      "whitish"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53614,
+    "length": 7,
+    "coordinates": [
+      180.42909240722656,
+      323.41876220703125,
+      211.5762176513672,
+      333.0227355957031
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...lth journal 53 (2017) 344–352.  [47] E. OConnor, C. A. Senger, M. L. Henninger, E. Copp...",
+    "suggestions": [
+      "O'Connor",
+      "Connor",
+      "O Connor"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53706,
+    "length": 7,
+    "coordinates": [
+      477.2839050292969,
+      323.41876220703125,
+      150.2946319580078,
+      342.48773193359375
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...(2017) 344–352.  [47] E. OConnor, C. A. Senger, M. L. Henninger, E. Coppola, B. N. Gay...",
+    "suggestions": [
+      "Singer",
+      "Sender",
+      "Sanger"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53721,
+    "length": 6,
+    "coordinates": [
+      152.2871551513672,
+      332.8837585449219,
+      174.866455078125,
+      342.48773193359375
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "....  [47] E. OConnor, C. A. Senger, M. L. Henninger, E. Coppola, B. N. Gaynes, Intervention...",
+    "suggestions": [],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53735,
+    "length": 9,
+    "coordinates": [
+      185.49058532714844,
+      332.8837585449219,
+      253.30014038085938,
+      342.48773193359375
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...ger, M. L. Henninger, E. Coppola, B. N. Gaynes, Interventions to prevent perinatal dep...",
+    "suggestions": [
+      "Gaines",
+      "Haynes",
+      "Gayness"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53764,
+    "length": 6,
+    "coordinates": [
+      285.4037170410156,
+      332.8837585449219,
+      323.49285888671875,
+      342.48773193359375
+    ],
+    "page": 19
+  },
+  {
+    "message": "Did you mean “US” (= United States)?",
+    "context": "...ce report and systematic review for the us preventive services task force, Jama 32...",
+    "suggestions": [
+      "US"
+    ],
+    "category": "GRAMMAR",
+    "rule_id": "THE_US",
+    "offset": 53865,
+    "length": 2,
+    "coordinates": [
+      286.0169372558594,
+      342.3477478027344,
+      315.0201416015625,
+      351.95172119140625
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... the us preventive services task force, Jama 321 (6) (2019) 588–601.  [48] A. Zhan, ...",
+    "suggestions": [
+      "Java",
+      "Rama",
+      "Jams"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53900,
+    "length": 4,
+    "coordinates": [
+      367.7583312988281,
+      342.3477478027344,
+      418.7431335449219,
+      351.95172119140625
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "..., Jama 321 (6) (2019) 588–601.  [48] A. Zhan, S. Mohan, C. Tarolli, R. B. Schneider,...",
+    "suggestions": [
+      "Than",
+      "Khan",
+      "Han"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53938,
+    "length": 4,
+    "coordinates": [
+      157.5713348388672,
+      351.812744140625,
+      185.69781494140625,
+      361.4167175292969
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...1 (6) (2019) 588–601.  [48] A. Zhan, S. Mohan, C. Tarolli, R. B. Schneider, J. L. Ada...",
+    "suggestions": [
+      "Johan",
+      "Moran",
+      "Moan"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53947,
+    "length": 5,
+    "coordinates": [
+      188.53517150878906,
+      351.812744140625,
+      207.5677490234375,
+      361.4167175292969
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...9) 588–601.  [48] A. Zhan, S. Mohan, C. Tarolli, R. B. Schneider, J. L. Adams, S. Sharm...",
+    "suggestions": [
+      "Troll",
+      "Trolls",
+      "Carelli"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 53957,
+    "length": 7,
+    "coordinates": [
+      224.7672119140625,
+      351.812744140625,
+      258.4169616699219,
+      361.4167175292969
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...chneider, J. L. Adams, S. Sharma, M. J. Elson, K. L. Spear, A. M. Glidden, M. A. Litt...",
+    "suggestions": [
+      "Nelson",
+      "Elton",
+      "Olson"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 54013,
+    "length": 5,
+    "coordinates": [
+      400.09368896484375,
+      351.812744140625,
+      418.4568176269531,
+      361.4167175292969
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...Sharma, M. J. Elson, K. L. Spear, A. M. Glidden, M. A. Little, et al., Using smartphone...",
+    "suggestions": [
+      "Gladden"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 54039,
+    "length": 7,
+    "coordinates": [
+      124.614990234375,
+      361.2767333984375,
+      154.50283813476562,
+      370.8807067871094
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "...phones and machine learning to quantify parkinson disease severity: the mobile parkinson ...",
+    "suggestions": [
+      "Parkinson",
+      "Atkinson"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 54121,
+    "length": 9,
+    "coordinates": [
+      330.4662170410156,
+      370.7417297363281,
+      375.1784973144531,
+      380.345703125
+    ],
+    "page": 19
+  },
+  {
+    "message": "Possible spelling mistake found.",
+    "context": "... parkinson disease severity: the mobile parkinson disease score, JAMA neurology 75 (7) (2...",
+    "suggestions": [
+      "Parkinson",
+      "Atkinson"
+    ],
+    "category": "TYPOS",
+    "rule_id": "MORFOLOGIK_RULE_EN_US",
+    "offset": 54160,
+    "length": 9,
+    "coordinates": [
+      461.24761962890625,
+      370.7417297363281,
+      133.69293212890625,
+      389.8096923828125
+    ],
+    "page": 19
+  }
+]
