@@ -27,21 +27,20 @@ const PDFViewer = ({ fileUrl }) => {
           await page.render({ canvasContext: context, viewport }).promise;
 
           // Add overlay for specific coordinates
-          if (i === 1) {
-            const overlay = document.createElement("div");
-            overlay.className = "pdf-overlay";
-            overlay.style.position = "absolute";
-            overlay.style.left = `${10 * viewport.scale}px`; // Convert coordinates to scaled units
-            overlay.style.top = `${10 * viewport.scale}px`;
-            overlay.style.width = `${5 * viewport.scale}px`; // Length of the overlay
-            overlay.style.height = `${5 * viewport.scale}px`; // Optional height
-            overlay.style.backgroundColor = "rgba(255, 0, 0, 0.3)"; // Semi-transparent red
-            overlay.style.border = "1px solid rgba(255, 0, 0, 0.8)";
-            overlay.style.cursor = "pointer";
-            overlay.onclick = () => alert("Overlay clicked!");
+          const overlay = document.createElement("div");
+          overlay.className = "pdf-overlay";
+          overlay.style.position = "absolute";
+          overlay.style.left = `${133.01499938964844 * viewport.scale}px`; // Convert coordinates to scaled units
+          overlay.style.top = `${137.70211791992188 * viewport.scale}px`;
+          overlay.style.width = `${(200.77212524414062 -133.01499938964844) * viewport.scale}px`; // Length of the overlay
+          overlay.style.height = `${(154.98928833007812 - 137.70211791992188) * viewport.scale}px`; // Optional height
+          overlay.style.backgroundColor = "rgba(255, 0, 0, 0.02)"; // Semi-transparent red
+          overlay.style.border = "1px solid rgba(255, 0, 0, 0.8)";
+          overlay.style.cursor = "pointer";
+          overlay.onclick = () => alert("Overlay clicked!");
 
-            viewerRef.current.appendChild(overlay);
-          }
+          viewerRef.current.appendChild(overlay);
+          
         }
       } catch (error) {
         console.error("Error loading or rendering PDF:", error);
